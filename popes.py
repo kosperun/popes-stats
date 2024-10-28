@@ -93,7 +93,7 @@ def sort_updated_data(file_path):
 def sort_dict_by_average(name_ages_mapping):
     names_sorted_by_average_ages = sorted(
         [
-            (name, sum(ages) / len(ages), len(ages))
+            (name, round(sum(ages) / len(ages), 3), len(ages))
             for name, ages in name_ages_mapping.items()
         ],
         key=lambda x: x[1],  # Sort by average age
