@@ -1,50 +1,52 @@
 import pandas as pd
 import bar_chart_race as bcr
 
+# Load CSV
 df = pd.read_csv("popes.csv")
 
-# Extract year manually from ISO-like string "0001-06-30T00:00:00Z"
+# Extract year
 df["start_year"] = df["start"].str[:4].astype(int)
 
 # Count occurrences per year per name
 counts = df.groupby(["start_year", "name"]).size().unstack(fill_value=0)
 
-# Cumulative counts for bar growth
+# Compute cumulative counts
 counts_cum = counts.cumsum()
 
-# Make sure integers
-counts_cum = counts_cum.astype(float)
-
-counts_cum_nudge = counts_cum.copy()
-
-# Get first year each pope appears
-first_year = df.groupby("name")["start_year"].min()
-
-# Apply nudge dynamically: newer first appearances push later names higher
+# Compute first year each cumulative count appears for each name
+# This will be used as a tie-breaker: newer names with same count rise above older ones
+first_count_year = pd.DataFrame(
+    index=counts_cum.index, columns=counts_cum.columns, dtype=float
+)
 for name in counts_cum.columns:
-    debut = first_year[name]
-    counts_cum_nudge.loc[debut:, name] += debut * 1e-5
-# # Add a very small increment proportional to year to break exact ties
-# counts_cum += (counts_cum.index.to_series() / 1_000_000_000).values[:, None]
-#
-# recency = df.groupby("name")["start_year"].max()
-# counts_cum_nudge = counts_cum + recency * 1e-6
-# # Break ties: for names with same cumulative count, use most recent year to nudge
-# last_year = df.groupby("name")["start_year"].max()
-# print(f"11111111 {last_year=}")
-# counts_cum_nudge = counts_cum.copy()
-# for i, name in enumerate(counts_cum.columns):
-#     counts_cum_nudge[name] += last_year[name] * 1e-5  # tiny fraction to break ties
-#
-# print(f"22222222 {counts_cum_nudge=}")
+    seen_counts = {}
+    for year, value in counts_cum[name].items():
+        if value not in seen_counts:
+            seen_counts[value] = year
+        first_count_year.at[year, name] = seen_counts[value]
 
-# Create bar chart race
+# Invert the tie-breaker: higher first_count_year → higher bar
+tie_nudge = first_count_year / 10_000_000  # very small fraction
+
+# Add tie-breaking nudge to cumulative counts
+counts_cum_nudge = counts_cum + tie_nudge
+
+# Convert to float
+counts_cum_nudge = counts_cum_nudge.astype(float)
+
+# Repeat the last row to extend the final frame
+extra_frames = 10  # number of extra periods to hold the last frame
+last_row = counts_cum_nudge.iloc[[-1]]  # keep it as DataFrame
+hold_frames = pd.concat([last_row] * extra_frames, ignore_index=False)
+counts_cum_nudge_extended = pd.concat([counts_cum_nudge, hold_frames])
+
+# Create the bar chart race
 bcr.bar_chart_race(
-    df=counts_cum_nudge,
+    df=counts_cum_nudge_extended,
     filename="popes_names.mp4",
     orientation="h",
     sort="desc",
-    n_bars=30,
+    n_bars=20,
     fixed_order=False,
     fixed_max=True,
     steps_per_period=10,
@@ -52,4 +54,5 @@ bcr.bar_chart_race(
     interpolate_period=True,
     bar_size=0.95,
     filter_column_colors=True,
+    period_template="{x:.0f}",
 )
