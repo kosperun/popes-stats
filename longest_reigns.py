@@ -1,8 +1,7 @@
 import pandas as pd
-import numpy as np
-import math
 from datetime import date
 from dateutil.relativedelta import relativedelta
+import bar_chart_race as bcr
 
 
 def parse_date(datestr: str) -> date:
@@ -19,6 +18,12 @@ def format_tenure(start: str, end: str) -> str:
     return f"{diff.years} years, {diff.months} months, {diff.days} days"
 
 
+def format_date(datestr: str) -> str:
+    """Format YYYY-MM-DD into 'Mon DD, YYYY' (e.g., Jan 1, 899)."""
+    dt = parse_date(datestr)
+    return dt.strftime("%b %d, %Y")
+
+
 def to_float_year(datestr: str) -> float:
     y, m, d = map(int, datestr[:10].split("-"))
     return y + (m - 1) / 12 + (d - 1) / 365.25
@@ -28,7 +33,6 @@ df = pd.read_csv("popes.csv")
 df["start_f"] = df["start"].apply(to_float_year)
 df["end_f"] = df["end"].apply(to_float_year)
 
-
 # Exact tenure for printing
 df["tenure_fmt"] = df.apply(lambda row: format_tenure(row["start"], row["end"]), axis=1)
 
@@ -36,13 +40,23 @@ df["tenure_fmt"] = df.apply(lambda row: format_tenure(row["start"], row["end"]),
 df["duration_days"] = df.apply(
     lambda row: (parse_date(row["end"]) - parse_date(row["start"])).days, axis=1
 )
+
 # ----------------------------
 # Print 20 longest reigns
 # ----------------------------
 top20 = df.sort_values("duration_days", ascending=False).head(20)
 print("20 Longest Papal Reigns:")
-for i, row in top20.iterrows():
-    print(f"{row['name_full']}: {row['tenure_fmt']}")
+for _, row in top20.iterrows():
+    start_str = format_date(row["start"])
+    end_str = format_date(row["end"])
+    print(f"{row['name_full']} ({start_str} – {end_str}): {row['tenure_fmt']}")
+# Assume top20 is your DataFrame of top 20 longest reigns
+top20["start_year"] = top20["start"].apply(lambda s: int(s[:4]))
+top20["century"] = top20["start_year"] // 100 + 1  # 1st century = years 1–100
+
+century_counts = top20["century"].value_counts().sort_index()
+print(century_counts)
+
 # ----------------------------
 # Build timeline with fewer points
 # ----------------------------
@@ -72,19 +86,19 @@ race_df = pd.concat([race_df, last_rows])
 # ----------------------------
 # Animation
 # ----------------------------
-# bcr.bar_chart_race(
-#     df=race_df,
-#     filename="papal_reigns.mp4",
-#     orientation="h",
-#     sort="desc",
-#     n_bars=20,
-#     fixed_order=False,
-#     fixed_max=True,
-#     steps_per_period=10,
-#     interpolate_period=False,
-#     period_length=period_length,
-#     title="20 Longest Papal Reigns in History",
-#     bar_size=0.95,
-#     filter_column_colors=True,
-#     period_template="{x:.0f}",
-# )
+bcr.bar_chart_race(
+    df=race_df,
+    filename="papal_reigns.mp4",
+    orientation="h",
+    sort="desc",
+    n_bars=20,
+    fixed_order=False,
+    fixed_max=True,
+    steps_per_period=10,
+    interpolate_period=False,
+    period_length=period_length,
+    title="20 Longest Papal Reigns in History",
+    bar_size=0.95,
+    filter_column_colors=True,
+    period_template="{x:.0f}",
+)
