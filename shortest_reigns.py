@@ -1,14 +1,26 @@
-import math
-import numpy as np
 import pandas as pd
 from datetime import date
+from dateutil.relativedelta import relativedelta
+import math
+import numpy as np
 import bar_chart_race as bcr
 
 
-# ---------- helpers (same as yours) ----------
 def parse_date(datestr: str) -> date:
     y, m, d = map(int, datestr[:10].split("-"))
     return date(y, m, d)
+
+
+def format_tenure(start: str, end: str) -> str:
+    start_dt = parse_date(start)
+    end_dt = parse_date(end)
+    diff = relativedelta(end_dt, start_dt)
+    return f"{diff.years} years, {diff.months} months, {diff.days} days"
+
+
+def format_date(datestr: str) -> str:
+    dt = parse_date(datestr)
+    return dt.strftime("%b %d, %Y")
 
 
 def to_float_year(datestr: str) -> float:
@@ -16,8 +28,36 @@ def to_float_year(datestr: str) -> float:
     return y + (m - 1) / 12 + (d - 1) / 365.25
 
 
-# ---------- load data ----------
+# ----------------------------
+# Load and prepare data
+# ----------------------------
 df = pd.read_csv("popes.csv")
+
+#############################################################
+# PRINT ALL REIGNS LESS THAN A YEAR
+#############################################################
+# Calculate reign length in days
+df["duration_days"] = df.apply(
+    lambda row: (parse_date(row["end"]) - parse_date(row["start"])).days, axis=1
+)
+
+# Human-readable format for reign length
+df["tenure_fmt"] = df.apply(lambda row: format_tenure(row["start"], row["end"]), axis=1)
+
+# ----------------------------
+# All popes with reign < 1 year
+# ----------------------------
+short_reigns = df[df["duration_days"] < 365].sort_values("duration_days")
+
+for i, row in short_reigns.iterrows():
+    print(
+        f"{row['name_full']}: {row['tenure_fmt']} "
+        f"({format_date(row['start'])} – {format_date(row['end'])}, {row['duration_days']} days)"
+    )
+#############################################################
+# BUILD BCR
+#############################################################
+
 df["start_f"] = df["start"].apply(to_float_year)
 df["end_f"] = df["end"].apply(to_float_year)
 df["name_full"] = df["name_full"].astype(str)  # ensure strings
