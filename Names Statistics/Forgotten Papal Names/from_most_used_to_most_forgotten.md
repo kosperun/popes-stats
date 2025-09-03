@@ -1,3 +1,5 @@
+[Top 15 Papal Names From Popular to Neglected](https://github.com/user-attachments/assets/7424bb38-830f-4ec5-af70-ee0b81adccf7)
+
 I looked at papal names that were popular in history (used more than once) but then fell out of use. To measure this, I combined how many times a name was used with how long it’s been since the last pope took it. The result is a ranking of names that once dominated but have been neglected for centuries. "Stephen" tops the list - there have been 9 popes with that name, but none since 1058, almost a millennium ago.
 
 The animation above visualizes, throughout history, the most used papal names and how long each had been neglected at that time.
