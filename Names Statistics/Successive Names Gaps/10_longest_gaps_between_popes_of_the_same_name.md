@@ -21,26 +21,28 @@ In the 20th century, two popes chose names that had not been used for centuries:
   
 ## Centuries of the most distant papal name reuse in descending order  
   
-12th century (top: Callixtus II, \~897 years, 16 popes, 13 distinct names, no new names)  
-11th century (top: Clement II, \~946 years, 19 popes, 14 distinct names, no new names)  
-15th century (top: Pius II, \~1303 years, 11 popes, 10 distinct names, no new names)  
-16th century (top: Marcellus II, 1246 years, 17 popes, 11 distinct names, no new names)  
-13th century (top: Martin IV, 625 years, 17 popes, 12 distinct names, no new names)  
-10th century (top: Sylvester II, 663 years, 24 popes, 11 distinct names, 1 new name, never reused - Lando)  
-9th century (top: Boniface VI, 270 years, 20 popes, 16 distinct names, 6 new names, 3 never reused)  
-20th century (top: John 623 or 543 years, 8 popes, 5 distinct names, 1 new name - John Paul)  
-14th century (top: Benedict XI, 255 years, 10 popes, 8 distinct names, no new names)  
-8th century (top: Stephen II, 495 years, 12 popes, 9 distinct names, 5 new names, 3 never reused)  
-18th century (top: Benedict XIII, 382 years, 8 popes, 4 distinct names, no new names)  
-7th century (top: Leo II, 220 years, 20 popes, 16 distinct names, 12 new names, 5 never reused)  
-17th century (top: Alexander VII, 151 years, 11 popes, 7 distinct names, no new names)  
-19th century (top: Leo XIII, 49 years, 6 popes, 3 distinct names, no new names)  
-5th century (top: Felix III, 208 years, 12 popes, 12 distinct names, 9 new names, 4 never reused)  
-21st century (top: Leo XIV, 122 years, 3 popes, 3 distinct names, 1 new name, never reused - Francis)  
-6th century (top: Boniface II, 108 years, 13 popes, 10 distinct names, 8 new names, 3 never reused)  
-3rd century (top and only: Sixtus II, 132 years, 14 popes, 14 distinct names, 13 new names, 8 never reused)  
+|Century | Top Gap Pope | Gap length | Total popes in century | Distinct names | New names |  
+|--|--|--|--|--|--|  
+| 12 | Callixtus II  | \~897 years   | 16 popes | 13 distinct names | no new names |  
+| 11 | Clement II  | \~946 years   | 19 popes | 14 distinct names | no new names |  
+| 15 | Pius II  | \~1303 years   | 11 popes | 10 distinct names | no new names |  
+| 16 | Marcellus II  | 1246 years   | 17 popes | 11 distinct names | no new names |  
+| 13 | Martin IV  | 625 years   | 17 popes | 12 distinct names | no new names |  
+| 10 | Sylvester II  | 663 years   | 24 popes | 11 distinct names | 1 new name, never reused - Lando |  
+| 9 | Boniface VI  | 270 years   | 20 popes | 16 distinct names | 6 new names, 3 never reused |  
+| 20 | John 623 or 543 years  | 8 popes   | 5 distinct names | 1 new name - John Paul)  
+| 14 | Benedict XI  | 255 years   | 10 popes | 8 distinct names | no new names |  
+| 8 | Stephen II  | 495 years   | 12 popes | 9 distinct names | 5 new names, 3 never reused |  
+| 18 | Benedict XIII  | 382 years   | 8 popes | 4 distinct names | no new names |  
+| 7 | Leo II  | 220 years   | 20 popes | 16 distinct names | 12 new names, 5 never reused |  
+| 17 | Alexander VII  | 151 years   | 11 popes| 7 distinct names | no new names |  
+| 19 | Leo XIII  | 49 years   | 6 popes | 3 distinct name s| no new names |  
+| 5 | Felix III  | 208 years   | 12 popes | 12 distinct names | 9 new names, 4 never reused |  
+| 21 | Leo XIV  | 122 years   | 3 popes | 3 distinct names | 1 new name, never reused - Francis |  
+| 6 | Boniface II  | 108 years   | 13 popes | 10 distinct names | 8 new names, 3 never reused |  
+| 3 | Sixtus II  | 132 years   | 14 popes | 14 distinct names | 13 new names, 8 never reused |  
   
-1st century: 5 popes, 5 distinct names, 5 never reused.  
-2nd century: 10 popes, 10 distinct names, 6 never reused.  
+1 century: 5 popes, 5 distinct names, 5 never reused.  
+2 century: 10 popes, 10 distinct names, 6 never reused.  
   
 No repetitions in the 1st, 2nd and 4th centuries. Only one repetition in the 3rd century - Pope Sixtus II, the first pope to share a name with one of his predecessors.  
