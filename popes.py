@@ -21,7 +21,7 @@ NAMES
 
 import csv
 import datetime
-import matplotlib.pyplot as plt
+import pandas as pd
 
 multiple_popes = {}
 
@@ -84,18 +84,13 @@ def sort_updated_data(file_path):
                 reverse=True,
             )
             write_csv(f"popes_sorted_by_{key}_DESC.csv", reader.fieldnames, sorted_rows)
-            write_csv(
-                f"popes_sorted_by_{key}_ASC.csv", reader.fieldnames, sorted_rows[::-1]
-            )
+            write_csv(f"popes_sorted_by_{key}_ASC.csv", reader.fieldnames, sorted_rows[::-1])
 
 
 ##################################################################
 def sort_dict_by_average(name_ages_mapping):
     names_sorted_by_average_ages = sorted(
-        [
-            (name, round(sum(ages) / len(ages), 3), len(ages))
-            for name, ages in name_ages_mapping.items()
-        ],
+        [(name, round(sum(ages) / len(ages), 3), len(ages)) for name, ages in name_ages_mapping.items()],
         key=lambda x: x[1],  # Sort by average age
     )
     return names_sorted_by_average_ages
@@ -124,13 +119,9 @@ def sort_dict_by_average(name_ages_mapping):
 
 def get_names_by_start_age(row, popes_names_by_start_ages):
     if row["name"] in popes_names_by_start_ages:
-        popes_names_by_start_ages[row["name"]].append(
-            float(calculate_age(row["birth"], row["start"]))
-        )
+        popes_names_by_start_ages[row["name"]].append(float(calculate_age(row["birth"], row["start"])))
     else:
-        popes_names_by_start_ages[row["name"]] = [
-            float(calculate_age(row["birth"], row["start"]))
-        ]
+        popes_names_by_start_ages[row["name"]] = [float(calculate_age(row["birth"], row["start"]))]
     return popes_names_by_start_ages
 
 
@@ -138,13 +129,9 @@ def get_names_by_end_age(row, popes_names_by_end_ages):
     if row["age_end"] == "NA":
         return
     if row["name"] in popes_names_by_end_ages:
-        popes_names_by_end_ages[row["name"]].append(
-            float(calculate_age(row["birth"], row["end"]))
-        )
+        popes_names_by_end_ages[row["name"]].append(float(calculate_age(row["birth"], row["end"])))
     else:
-        popes_names_by_end_ages[row["name"]] = [
-            float(calculate_age(row["birth"], row["end"]))
-        ]
+        popes_names_by_end_ages[row["name"]] = [float(calculate_age(row["birth"], row["end"]))]
     return popes_names_by_end_ages
 
 
@@ -248,9 +235,7 @@ with open("popes.csv") as file:
     for row in reader:
         # Names by age at election and death
         if row["age_start"] != "NA":
-            popes_names_by_start_ages = get_names_by_start_age(
-                row, popes_names_by_start_ages
-            )
+            popes_names_by_start_ages = get_names_by_start_age(row, popes_names_by_start_ages)
         if row["age_end"] != "NA":
             popes_names_by_end_ages = get_names_by_end_age(row, popes_names_by_end_ages)
 
@@ -278,24 +263,22 @@ with open("popes.csv") as file:
         #     )
         #     popes_data_by_century[century].append(data)
 
-    names_sorted_by_average_start_ages_ASC = sort_dict_by_average(
-        popes_names_by_start_ages
-    )
+    names_sorted_by_average_start_ages_ASC = sort_dict_by_average(popes_names_by_start_ages)
     names_sorted_by_average_end_ages_ASC = sort_dict_by_average(popes_names_by_end_ages)
 
-    with open("popes_names_sorted_by_age_at_election_ASC.csv", "w") as file:
+    with open("names_by_election_age_ASC.csv", "w") as file:
         writer = csv.writer(file)
         writer.writerow(["Name", "Age", "Number of popes"])
         writer.writerows(names_sorted_by_average_start_ages_ASC)
-    with open("popes_names_sorted_by_age_at_election_DESC.csv", "w") as file:
+    with open("names_by_election_age_DESC.csv", "w") as file:
         writer = csv.writer(file)
         writer.writerow(["Name", "Age", "Number of popes"])
         writer.writerows(names_sorted_by_average_start_ages_ASC[::-1])
-    with open("popes_names_sorted_by_age_at_death_ASC.csv", "w") as file:
+    with open("names_by_end_age_ASC.csv", "w") as file:
         writer = csv.writer(file)
         writer.writerow(["Name", "Age", "Number of popes"])
         writer.writerows(names_sorted_by_average_end_ages_ASC)
-    with open("popes_names_sorted_by_age_at_death_DESC.csv", "w") as file:
+    with open("names_by_end_age_DESC.csv", "w") as file:
         writer = csv.writer(file)
         writer.writerow(["Name", "Age", "Number of popes"])
         writer.writerows(names_sorted_by_average_end_ages_ASC[::-1])
@@ -351,3 +334,34 @@ with open("popes.csv") as file:
 #     plt.xticks(range(20, 110, 5))
 #     plt.grid(axis="y")
 #     plt.savefig(f"age_at_death_{century+1}_histogram.png")
+
+# Load CSV
+df = pd.read_csv("popes.csv")
+
+# Sort by age_end descending
+df_sorted_end_desc = df.sort_values("age_end", ascending=False)
+df_sorted_end_asc = df.sort_values("age_end", ascending=True)
+df_sorted_start_desc = df.sort_values("age_start", ascending=False)
+df_sorted_start_asc = df.sort_values("age_start", ascending=True)
+df_sorted_tenure_desc = df.sort_values("tenure", ascending=False)
+df_sorted_tenure_asc = df.sort_values("tenure", ascending=True)
+
+# Select only required columns
+columns_to_keep = [
+    "number",
+    "name_full",
+    "canonization",
+    "birth",
+    "start",
+    "end",
+    "age_start",
+    "age_end",
+    "tenure",
+]
+
+df_sorted_end_desc[columns_to_keep].to_csv("by_age_end_DESC.csv", index=False)
+df_sorted_end_asc[columns_to_keep].to_csv("by_age_end_ASC.csv", index=False)
+df_sorted_start_desc[columns_to_keep].to_csv("by_age_start_DESC.csv", index=False)
+df_sorted_start_asc[columns_to_keep].to_csv("by_age_start_ASC.csv", index=False)
+df_sorted_tenure_desc[columns_to_keep].to_csv("by_tenure_DESC.csv", index=False)
+df_sorted_tenure_asc[columns_to_keep].to_csv("by_tenure_ASC.csv", index=False)
