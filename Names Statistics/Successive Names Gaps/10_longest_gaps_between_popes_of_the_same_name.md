@@ -25,20 +25,20 @@ In the 20th century, two popes chose names that had not been used for centuries:
   
 |Century | Top Gap Pope | Gap in years | Total popes in century | Distinct names | New names |  
 |--|--|--|--|--|--|  
-| 12 | Callixtus II  | \~897 | 16 | 13 | |  
-| 11 | Clement II  | \~946 | 19 | 14 | |  
-| 15 | Pius II  | \~1303 | 11 | 10 | |  
-| 16 | Marcellus II  | 1246 | 17 | 11 | |  
-| 13 | Martin IV  | 625 | 17 | 12 | |  
+| 12 | Callixtus II  | \~897 | 16 | 13 | 0 |  
+| 11 | Clement II  | \~946 | 19 | 14 | 0 |  
+| 15 | Pius II  | \~1303 | 11 | 10 | 0 |  
+| 16 | Marcellus II  | 1246 | 17 | 11 | 0 |  
+| 13 | Martin IV  | 625 | 17 | 12 | 0 |  
 | 10 | Sylvester II  | 663 | 24 | 11 | 1 (never reused - Lando) |  
 | 9 | Boniface VI  | 270 | 20 | 16 | 6 (3 never reused) |  
 | 20 | John XXIII  | 623 or 543 | 8 | 5 | 1 (John Paul) |
-| 14 | Benedict XI  | 255 | 10 | 8 | |  
+| 14 | Benedict XI  | 255 | 10 | 8 | 0 |  
 | 8 | Stephen II  | 495 | 12 | 9 | 5 (3 never reused) |  
-| 18 | Benedict XIII  | 382 | 8 | 4 | |  
+| 18 | Benedict XIII  | 382 | 8 | 4 | 0 |  
 | 7 | Leo II  | 220 | 20 | 16 | 12 (5 never reused) |  
-| 17 | Alexander VII  | 151 | 11 | 7 | |  
-| 19 | Leo XIII  | 49 | 6 | 3 s| |  
+| 17 | Alexander VII  | 151 | 11 | 7 | 0 |  
+| 19 | Leo XIII  | 49 | 6 | 3 | 0 |  
 | 5 | Felix III  | 208 | 12 | 12 | 9 (4 never reused) |  
 | 21 | Leo XIV  | 122 | 3 | 3 | 1 (never reused - Francis) |  
 | 6 | Boniface II  | 108 | 13 | 10 | 8 (3 never reused) |  
