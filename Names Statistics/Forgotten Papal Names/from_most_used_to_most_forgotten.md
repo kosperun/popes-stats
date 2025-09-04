@@ -8,7 +8,7 @@ The animation above visualizes, throughout history, the most used papal names an
 
 Most historically popular papal names that later fell out of use (2013 data, before Leo XIV), with usage count, last time used and neglect score:
 
-|# | Name     | Times Used | Year Last Used | Score    |
+|# | Name     | Times Used | Year Last Used | Neglect Score    |
 |---|----------|-----------------|----------------|----------|
 | 1 | Stephen | 9 | 1058 | 8600.52 |
 | 2 | Boniface | 8 | 1404 | 4986.91 |
