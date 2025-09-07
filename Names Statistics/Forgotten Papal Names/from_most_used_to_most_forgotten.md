@@ -1,4 +1,5 @@
-[Top 15 Papal Names From Popular to Neglected](https://github.com/user-attachments/assets/7424bb38-830f-4ec5-af70-ee0b81adccf7)
+[Top 15 Papal Names From Popular to Neglected](https://github.com/user-attachments/assets/e0db71cf-df0b-42ff-a40d-0be29ac2326e)
+
 
 With a lifelong interest in the history of the Papacy, I wanted to visualize which papal names were once popular but later fell out of use. To measure this, I created a simple metric:
 
