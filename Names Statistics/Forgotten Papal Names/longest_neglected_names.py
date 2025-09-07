@@ -16,10 +16,10 @@ def to_float_year(datestr: str) -> float:
 # ----------------------------
 # Load data
 # ----------------------------
-df = pd.read_csv("popes.csv")
+df = pd.read_csv("../../popes.csv")
 
 # Convert start dates to float years
-df["start_f"] = df["start"].apply(to_float_year)
+df["end_f"] = df["end"].apply(to_float_year)
 
 # ----------------------------
 # Compute "most remote usage" metric
@@ -29,16 +29,14 @@ counts = df["name"].value_counts()
 reused_names = counts[counts >= 2].index
 df_reused = df[df["name"].isin(reused_names)]
 
-current_year = df["start_f"].max()
-last_usage = df_reused.groupby("name")["start_f"].max()
+current_year = 2025.0
+last_usage = df_reused.groupby("name")["end_f"].max()
 usage_count = df_reused.groupby("name").size().apply(int)
 
 # Metric: (years since last use) * number of usages
 metric = (current_year - last_usage) * usage_count
 # Combine into one DataFrame
-result = pd.DataFrame({"count": usage_count.astype(int), "score": metric}).sort_values(
-    "score", ascending=False
-)
+result = pd.DataFrame({"count": usage_count.astype(int), "score": metric}).sort_values("score", ascending=False)
 
 print("Top forgotten/popular names by this metric:")
 for name, row in result.iterrows():
@@ -48,12 +46,12 @@ for name, row in result.iterrows():
 # Optional: animate growth of metric over time
 # ----------------------------
 # For each year, compute metric up to that point
-timeline = np.arange(int(df["start_f"].min()), int(current_year) + 1)
+timeline = np.arange(int(df["end_f"].min()), int(current_year) + 1)
 records = []
 
 for t in timeline:
-    df_active = df_reused[df_reused["start_f"] <= t]
-    last_use = df_active.groupby("name")["start_f"].max()
+    df_active = df_reused[df_reused["end_f"] <= t]
+    last_use = df_active.groupby("name")["end_f"].max()
     counts = df_active.groupby("name").size()
     val = (t - last_use) * counts
     records.append(val)
@@ -87,7 +85,7 @@ bcr.bar_chart_race(
     period_length=70,
     interpolate_period=False,
     bar_size=0.95,
-    title="Historically Popular Names Unused for Longest Time",
+    title="The rise and neglect of papal names across history (top 15)",
     filter_column_colors=True,
     period_template="{x:.0f}",
 )
