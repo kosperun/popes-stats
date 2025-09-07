@@ -42,7 +42,9 @@ df["prev_name"] = prev_names
 df["prev_end_dt"] = prev_ends
 
 # Remove first row (no previous pope)
-gaps_sorted = df.dropna(subset=["gap_days"]).sort_values("gap_days", ascending=False)
+gaps_sorted = df.dropna(subset=["gap_days"]).sort_values(
+    by=["gap_days", "start_dt"], ascending=[False, True]
+)
 
 # Print
 for _, row in gaps_sorted.iterrows():
