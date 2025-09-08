@@ -2,6 +2,9 @@
 
 Note: The analysis starts with Pope Pontian (230-235), after whose pontificate the exact dates of each pope’s reign are known.
 
+<img width="1200" height="600" alt="average_sede_vacante_duration_by_century" src="https://github.com/user-attachments/assets/1b304834-5b58-44da-a06a-44fe32245f23" />
+<img width="1200" height="600" alt="total_sede_vacante_duration_by_century" src="https://github.com/user-attachments/assets/50685c9a-4824-434b-af8c-87b0ae2b37d2" />
+
 There have been 8 periods of sede vacante (papal interregnums) lasting more than a year.
 
 | # | Previous Pope | Pontificate End | Next Pope | Pontificate Start | Sede Vacante | Reason |  
