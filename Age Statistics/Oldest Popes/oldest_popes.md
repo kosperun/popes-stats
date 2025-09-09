@@ -16,4 +16,8 @@
 Gregory XII abdicated at around 88 years of age and lived for two more years, dying on October 18, 1417, aged 89–90. Had he not abdicated, he would have ranked higher on this list.
 Benedict XVI abdicated at 85 and lived almost ten more years, passing away on December 31, 2022, at the age of 95. Without abdication, he would rank around 3rd place among the oldest popes (or 1st among those with fully confirmed ages.).
 
+## Popes that died out of office
+
+Pontian (October 235), Eusebius (21 October 310), Silverius (2 December 537), Romanus (unknown), Leo V (~903), Benedict V (4 July 965), John XVIII (July 1009), Benedict IX (twice, c. December 1055/January 1056 (aged 43)), Gregory VI (1048), Celestine V (19 May 1296), Gregory XII (18 October 1417 (age 89-90)), Benedict XVI (31 December 2022 (aged 95))
+
 # Oldest popes at election
