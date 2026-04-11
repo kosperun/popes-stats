@@ -1,268 +1,268 @@
-number,name_full,name,suffix,canonization,birth,start,end,start_age,end_age,tenure_years,cardinalate,years_as_cardinal,canonization,Personal Name,Place of Birth,Modern-day country of birth,Comments
-1,Peter,Peter,1,,0001-06-30,0030-06-30,0068-06-30,29,67,38,NA,NA,,"Shimon son of Yonah, Simeon Kephas","Bethsaida, Galilea",Israel,Jew from Judaea
-2,Linus,Linus,1,,0010-06-30,0068-06-30,0080-06-30,58,70,12,NA,NA,,NA,"Volterrae, Tuscia (Central Tuscany)",Italy,First Roman pope (Roman citizen)
-3,Anacletus,Anacletus,1,,0016-06-30,0080-06-30,0092-06-30,64,76,12,NA,NA,,NA,Probably Greece (Athens),Greece,First Greek pope.
-4,Clement I,Clement,1,,0035-06-30,0092-06-30,0100-06-30,57,65,8,NA,NA,,NA,Rome,Italy,NA
-5,Evaristus,Evaristus,1,,0030-06-30,0100-06-30,0108-06-30,70,78,8,NA,NA,,NA,"Bethlehem, Judea",West Bank,Hellenized Jew.
-6,Alexander I,Alexander,1,,0075-06-30,0108-06-30,0115-06-30,33,40,7,NA,NA,,NA,Rome,Italy,NA
-7,Sixtus I,Sixtus,1,,0042-06-30,0115-06-30,0125-04-03,73,82.759,9.759,NA,NA,,NA,Rome,Italy,Possibly of Greek descent
-8,Telesphorus,Telesphorus,1,,0067-06-30,0125-04-03,0136-01-05,57.759,68.515,10.755,NA,NA,,NA,"Greece or Terra Nova, Calabria, Italy",Greece or Italy,NA
-9,Hyginus,Hyginus,1,,0074-06-30,0136-01-05,0140-01-11,61.515,65.531,4.016,NA,NA,,NA,"Athens, Greece",Greece,NA
-10,Pius I,Pius,1,,0081-06-30,0140-01-11,0155-07-11,58.531,74.031,15.5,NA,NA,,NA,"Aquileia, Friuli, Italy",Italy,NA
-11,Anicetus,Anicetus,1,,0092-06-30,0155-07-11,0166-04-20,63.031,73.806,10.775,NA,NA,,NA,"Emesa, Syria",Syria,Hellenized Syrian; first Syrian pope.
-12,Soter,Soter,1,,0119-06-30,0166-04-20,0174-04-22,46.806,54.811,8.005,NA,NA,,NA,"Fondi, Latium, Italy",Italy,NA
-13,Eleutherius,Eleutherius,1,,0130-06-30,0174-04-22,0189-05-26,43.811,58.906,15.094,NA,NA,,NA,"Nicopoli, Epyrus",Greece,NA
-14,Victor I,Victor,1,,0120-06-30,0189-05-26,0199-07-28,68.906,79.078,10.172,NA,NA,,NA,Northern Africa,Africa,Roman Berber; first pope to have been born on the continent of Africa.
-15,Zephyrinus,Zephyrinus,1,,0160-06-30,0199-07-28,0217-12-20,39.078,57.473,18.395,NA,NA,,NA,Rome,Italy,NA
-16,Callixtus I,Callixtus,1,,0155-06-30,0217-12-20,0222-10-14,62.473,67.29,4.817,NA,NA,,NA,Ravenna,Italy,NA
-17,Urban I,Urban,1,,0175-06-30,0222-10-14,0230-05-23,47.29,54.897,7.608,NA,NA,,NA,Rome,Italy,NA
-18,Pontian,Pontian,1,,0175-06-30,0230-08-21,0235-09-28,55.142,60.245,5.103,NA,NA,,NA,Rome,Italy,First to abdicate after exile to Sardinia by Emperor Maximinus Thrax.
-19,Anterus,Anterus,1,,0180-06-30,0235-11-21,0236-01-03,55.392,55.509,0.117,NA,NA,,NA,"Greece or Petilia, Calabria, Italy",Greece or Italy,Greek
-20,Fabian,Fabian,1,,0200-06-30,0236-01-10,0250-01-20,35.529,49.556,14.027,NA,NA,,NA,Rome,Italy,NA
-21,Cornelius,Cornelius,1,,0180-06-30,0251-03-06,0253-06-25,70.684,72.986,2.302,NA,NA,,NA,Rome,Italy,NA
-22,Lucius I,Lucius,1,,0200-06-30,0253-06-25,0254-03-05,52.986,53.682,0.695,NA,NA,,NA,Rome,Italy,NA
-23,Stephen I,Stephen,1,,0205-06-30,0254-03-12,0257-08-02,48.701,52.09,3.389,NA,NA,,NA,Rome,Italy,Greek descent
-24,Sixtus II,Sixtus,2,,0215-06-30,0257-08-30,0258-08-06,42.167,43.101,0.934,NA,NA,,NA,Greece or Italy,Greece or Italy,NA
-25,Dionysius,Dionysius,1,,0200-06-30,0259-07-22,0268-12-26,59.061,68.489,9.428,NA,NA,,NA,Magna Graecia (Italy) or unknown,Italy or unknown,NA
-26,Felix I,Felix,1,,0206-06-30,0269-01-05,0274-12-30,62.515,68.5,5.985,NA,NA,,NA,Rome,Italy,NA
-27,Eutychian,Eutychian,1,,0240-06-30,0275-01-04,0283-12-07,34.512,43.437,8.925,NA,NA,,NA,"Luna, Tuscany, Italy",Italy,NA
-28,Caius,Caius,1,,0245-06-30,0283-12-17,0296-04-22,38.464,50.811,12.347,NA,NA,,NA,Dalmatia,Croatia,NA
-29,Marcellinus,Marcellinus,1,,0250-06-30,0296-06-30,0304-04-26,46,53.822,7.822,NA,NA,,NA,Rome,Italy,NA
-30,Marcellus I,Marcellus,1,,0255-01-06,0308-05-27,0309-01-16,53.391,54.027,0.637,NA,NA,,NA,Rome,Italy,NA
-31,Eusebius,Eusebius,1,,0255-06-30,0309-04-18,0310-08-17,53.8,55.131,1.331,NA,NA,,NA,"Achaea, Greece",Greece,NA
-32,Miltiades,Miltiades,1,,0270-06-30,0311-07-02,0314-01-10,41.007,43.529,2.522,NA,NA,,NA,Africa,Africa,of Berber descent
-33,Sylvester I,Sylvester,1,,0285-06-30,0314-01-31,0335-12-31,28.586,50.503,21.917,NA,NA,,NA,"Sant'Angelo a Scala, Avellino",Italy,NA
-34,Mark,Mark,1,,0290-06-30,0336-01-18,0336-10-07,45.55,46.27,0.72,NA,NA,,NA,Rome,Italy,NA
-35,Julius I,Julius,1,,0280-06-30,0337-02-06,0352-04-12,56.601,71.784,15.183,NA,NA,,NA,Rome,Italy,NA
-36,Liberius,Liberius,1,,0310-06-30,0352-05-17,0366-09-24,41.881,56.234,14.353,NA,NA,,NA,Rome,Italy,Earliest Pope not yet canonized by the Roman Church. Revered as a saint in Eastern Christianity.
-37,Damasus I,Damasus,1,,0305-06-30,0366-10-01,0384-12-11,61.254,79.448,18.194,NA,NA,,NA,Rome or Lusitania (Portugal),Italy or Portugal,The first pope from modern-day Portugal.
-38,Siricius,Siricius,1,,0334-06-30,0384-12-17,0399-11-26,50.464,65.406,14.941,NA,NA,,NA,Rome,Italy,"Authored important decretal of 386 (written to Bishop Himerius of Tarragona), commanding celibacy for priests, the first decree on this subject."
-39,Anastasius I,Anastasius,1,,0340-06-30,0399-11-27,0401-12-19,59.408,61.47,2.061,NA,NA,,NA,Rome,Italy,NA
-40,Innocent I,Innocent,1,,0378-06-30,0401-12-21,0417-03-12,23.475,38.701,15.225,NA,NA,,NA,Albano Laziale or Albania,Italy or Albania,NA
-41,Zosimus,Zosimus,1,,0370-06-30,0417-03-18,0418-12-26,46.717,48.489,1.772,NA,NA,,NA,Calabria,Italy,of Greek descent. 
-42,Boniface I,Boniface,1,,0377-06-30,0418-12-28,0422-09-04,41.495,45.179,3.684,NA,NA,,NA,Rome,Italy,NA
-43,Celestine I,Celestine,1,,0380-06-30,0422-09-10,0432-07-27,42.195,52.075,9.88,NA,NA,,NA,"Campania, Western Roman Empire",Italy,NA
-44,Sixtus III,Sixtus,3,,0390-06-30,0432-07-31,0440-08-18,42.086,50.134,8.048,NA,NA,,NA,Rome,Italy,NA
-45,Leo I,Leo,1,,0390-06-30,0440-09-29,0461-11-10,50.247,71.362,21.115,NA,NA,,NA,Etruria,Italy,NA
-46,Hilary,Hilary,1,,0400-06-30,0461-11-19,0468-02-29,61.387,67.664,6.277,NA,NA,,NA,"Sardinia, Western Roman Empire",Italy,NA
-47,Simplicius,Simplicius,1,,0430-06-30,0468-03-03,0483-03-10,37.676,52.695,15.019,NA,NA,,NA,Tibur,Italy,NA
-48,Felix III,Felix,3,,0440-06-30,0483-03-13,0492-03-01,42.703,51.671,8.967,NA,NA,,NA,Rome,Italy,Great-great-grandfather of pope Gregory I.
-49,Gelasius I,Gelasius,1,,0410-06-30,0492-03-01,0496-11-21,81.671,86.392,4.721,NA,NA,,NA,Africa,Algeria,"of Berber descent. the last pope to have been born on the continent of Africa. The first pope called the ""Vicar of Christ"""
-50,Anastasius II,Anastasius,2,,0445-06-30,0496-11-24,0498-11-19,51.4,53.387,1.986,0494-06-30,2.4,,NA,Rome,Italy,of Greek descent. Earliest pope not canonized by either the Latin Church or the Eastern Church. 
-51,Symmachus,Symmachus,1,,0460-06-30,0498-11-22,0514-07-19,38.395,54.053,15.658,0496-06-30,2.395,,NA,Sardinia,Italy,NA
-52,Hormisdas,Hormisdas,1,,0450-06-30,0514-07-20,0523-08-06,64.056,73.101,9.045,Unknown,Unknown,,NA,Frusino,Italy,NA
-53,John I,John,1,,0470-06-30,0523-08-13,0526-05-18,53.12,55.884,2.764,0495-06-30,28.12,,NA,Tuscany,Italy,NA
-54,Felix IV,Felix,4,,0490-06-30,0526-07-12,0530-09-22,36.034,40.228,4.194,0515-06-30,11.034,,NA,Samnium,Italy,NA
-55,Boniface II,Boniface,2,,0490-06-30,0530-09-22,0532-10-17,40.228,42.298,2.07,Unknown,Unknown,,NA,Rome to Ostrogoth parents,Italy,First Germanic pope. Changed the numbering of the years in the Julian Calendar from the Era of the Martyrs to Anno Domini. 
-56,John II,John,2,,0473-06-30,0533-01-02,0535-05-08,59.507,61.856,2.35,0531-06-30,1.507,,Mercurius,Rome,Italy,First pope not to use his personal name
-57,Agapetus I,Agapetus,1,,0490-06-30,0535-05-13,0536-04-22,44.87,45.811,0.941,0530-06-30,4.87,,NA,"Rome, Ostrogothic Kingdom",Italy,NA
-58,Silverius,Silverius,1,,0480-06-30,0536-06-08,0537-03-11,55.94,56.698,0.758,NA,NA,,NA,Campania,Italy,Son of Pope Hormisdas before he became a priest.
-59,Vigilius,Vigilius,1,,0500-06-30,0537-03-29,0555-06-07,36.747,54.937,18.19,Unknown,Unknown,,NA,Rome,Italy,NA
-60,Pelagius I,Pelagius,1,,0505-06-30,0556-04-16,0561-03-04,50.795,55.679,4.884,0544-06-30,11.795,,NA,Rome,Italy,NA
-61,John III,John,3,,0520-06-30,0561-07-17,0574-07-13,41.048,54.037,12.989,Unknown,Unknown,,Catelinus,"Rome, Eastern Roman Empire",Italy,Second Pope not to use his personal name. 
-62,Benedict I,Benedict,1,,0525-06-30,0575-06-02,0579-07-30,49.923,54.083,4.16,NA,NA,,NA,Rome,Italy,NA
-63,Pelagius II,Pelagius,2,,0520-06-30,0579-11-26,0590-02-07,59.406,69.604,10.198,NA,NA,,NA,Rome,Italy,NA
-64,Gregory I,Gregory,1,,0540-06-30,0590-09-03,0604-03-12,50.176,63.701,13.525,NA,NA,,NA,Rome,Italy,Great-great-grandson of pope Felix III.
-65,Sabinian,Sabinian,1,,0530-06-30,0604-09-13,0606-02-22,74.203,75.645,1.441,0590-06-30,14.203,,NA,Blera,Italy,NA
-66,Boniface III,Boniface,3,,0540-06-30,0607-02-19,0607-11-12,66.637,67.367,0.731,0590-06-30,16.637,,NA,Rome,Italy,of Greek descent. 
-67,Boniface IV,Boniface,4,,0550-06-30,0608-09-15,0615-05-08,58.209,64.856,6.647,0591-06-30,17.209,,NA,Marsi,Italy,First Pope to bear the same name as his predecessor. Member of the Order of Saint Benedict.
-68,Adeodatus I,Adeodatus,1,,0570-06-30,0615-11-13,0618-11-08,45.37,48.356,2.986,0590-06-30,25.37,,NA,Rome,Italy,"The first pope to use lead seals on papal documents, which in time came to be called papal bulls. "
-69,Boniface V,Boniface,5,,0575-06-30,0619-12-23,0625-10-25,44.481,50.32,5.839,NA,NA,,NA,Naples,Italy,NA
-70,Honorius I,Honorius,1,,0585-06-30,0625-10-27,0638-10-12,40.325,53.284,12.959,NA,NA,,NA,"Campania, Byzantine Empire",Italy,NA
-71,Severinus,Severinus,1,,0585-06-30,0640-05-28,0640-08-02,54.911,55.09,0.179,0637-06-30,,,NA,Rome,Italy,NA
-72,John IV,John,4,,0587-06-30,0640-12-24,0642-10-12,53.484,55.284,1.8,0636-06-30,,,NA,"Iadera, Dalmatia","Zadar, Croatia",NA
-73,Theodore I,Theodore,1,,0610-06-30,0642-11-24,0649-05-14,32.4,38.873,6.473,0641-06-30,1.4,,NA,Jerusalem,Israel,of Greek ethnicity. The last pope from Palestine. the only pope to have been a native of Jerusalem.
-74,Martin I,Martin,1,,0590-06-30,0649-07-05,0654-08-10,59.015,64.112,5.097,0648-06-30,1.015,,NA,"Near Todi, Umbria, Byzantine Empire",Italy,Last pope recognized as a martyr. 
-75,Eugene I,Eugene,1,,0615-06-30,0654-08-10,0657-06-02,39.112,41.923,2.811,0654-06-30,0.112,,NA,Rome,Italy,NA
-76,Vitalian,Vitalian,1,,0600-06-30,0657-07-30,0672-01-27,57.083,71.575,14.492,0654-06-30,3.083,,NA,"Segni, Byzantine Empire",Italy,NA
-77,Adeodatus II,Adeodatus,2,,0621-06-30,0672-04-11,0676-06-17,50.781,54.964,4.183,NA,NA,,NA,"Rome, Byzantine Empire",Italy,NA
-78,Donus,Donus,1,,0610-06-30,0676-11-02,0678-04-11,66.34,67.781,1.441,0675-06-30,1.34,,NA,"Rome, Byzantine Empire",Italy,NA
-79,Agatho,Agatho,1,,0577-06-30,0678-06-27,0681-01-10,100.992,103.529,2.537,0676-06-30,1.992,,NA,Sicily,Italy,of Greek ethnicity.
-80,Leo II,Leo,2,,0611-06-30,0682-08-17,0683-07-03,71.131,72.009,0.878,0680-06-30,2.131,,NA,Sicily,Italy,of Greek ethnicity.
-81,Benedict II,Benedict,2,,0635-06-30,0684-06-26,0685-05-08,48.989,49.856,0.867,0681-06-30,2.989,,NA,"Rome, Byzantine Empire",Italy,NA
-82,John V,John,5,,0635-06-30,0685-07-23,0686-08-02,50.064,51.09,1.026,0680-06-30,5.064,,NA,"Antiochia, Syria",Syria or Turkey,of Syrian or Greek ethnicity. 
-83,Conon,Conon,1,,0630-06-30,0686-10-21,0687-09-21,56.309,57.225,0.917,0683-06-30,3.309,,NA,Thracia,"Turkey, Greece or Bulgaria",of Greek ethnicity. 
-84,Sergius I,Sergius,1,,0650-06-30,0687-12-15,0701-09-08,37.459,51.19,13.731,0683-06-30,4.459,,NA,"Sicily or Antiochia, Syria","Italy or Syria, Turkey",Hellenized Syrian
-85,John VI,John,6,,0650-06-30,0701-10-30,0705-01-11,51.333,54.531,3.198,0700-06-30,1.333,,NA,"Ephesus, Eastern Roman Empire",Turkey,of Greek ethnicity. The only pope who came from Asia Minor. 
-86,John VII,John,7,,0655-06-30,0705-03-01,0707-10-18,49.671,52.301,2.63,Unknown,Unknown,,NA,Calabria,Italy,of Greek ethnicity. The second pope to bear the same name as his immediate predecessor. 
-87,Sisinnius,Sisinnius,1,,0650-06-30,0708-01-15,0708-02-04,57.542,57.595,0.053,0706-06-30,1.542,,NA,"Syria, Rashidun Caliphate",Syria,Born as subject of the Rashidun Caliphate. Was Syrian.
-88,Constantine,Constantine,1,,0664-06-30,0708-03-25,0715-04-09,43.736,50.776,7.04,0707-06-30,0.736,,NA,Syria,Syria,Last pope to visit Greece until John Paul II in 2001
-89,Gregory II,Gregory,2,,0669-06-30,0715-05-19,0731-02-11,45.887,61.615,15.728,Unknown,Unknown,,NA,"Rome, Byzantine Empire",Italy,NA
-90,Gregory III,Gregory,3,,0669-06-30,0731-03-18,0741-11-28,61.717,72.411,10.694,0726-06-30,4.717,,NA,"Syria, Umayyad Caliphate",Syria,Born as subject of the Umayyad Caliphate; the last pope from Syria. The third pope to come from a Muslim country. The third pope to bear the same name as his immediate predecessor. Last pope to have been born outside Europe until the election of Francis in 2013. 
-91,Zachary,Zachary,1,,0679-06-30,0741-12-03,0752-03-22,62.426,72.728,10.302,0732-04-12,9.642,,NA,Calabria,Italy,of Greek ethnicity.
-92,Stephen II,Stephen,2,,0714-06-30,0752-03-26,0757-04-26,37.739,42.822,5.083,0749-06-30,2.739,,NA,Rome,Italy,later the sovereign of the independent Papal States. Sometimes called Stephen III. The Donation of Pepin. Brother of Paul I. 
-93,Paul I,Paul,1,,0700-06-30,0757-05-29,0767-06-28,56.914,66.995,10.081,0749-06-30,7.914,,NA,Rome,Italy,Brother of Stephen II.
-94,Stephen III,Stephen,3,,0723-06-30,0768-08-07,0772-01-24,45.104,48.567,3.463,0761-06-02,7.18,,NA,Sicily,Italy,"of Greek ethnicity. A decree issued in the session of April 13, 769 of the Roman Council convoked by Pope Stephen III (IV) in the Lateran basilica mandated that all future popes had to be either deacon or presbyter cardinalis and that laymen could not vote in papal elections. The word cardinalis, then an adjective, appears for the first time in the Liber Pontificalis in the biography of this pope."
-95,Adrian I,Adrian,1,,0700-06-30,0772-02-01,0795-12-26,71.587,95.489,23.902,0769-06-30,2.587,,NA,Rome,Italy,NA
-96,Leo III,Leo,3,,0750-06-30,0795-12-26,0816-06-12,45.489,65.951,20.462,Unknown,Unknown,,NA,Rome,Italy,"He was included in the catalogue of saints in 1673 by Pope Clement X because of the presumed miracle of the restoration of his eyes and tongue, even though the sources say that it was only an attempt to remove them. His feast, celebrated on February 11 and on May 14 pro clero Romano, has been suppressed."
-97,Stephen IV,Stephen,4,,0770-06-30,0816-06-22,0817-01-24,45.978,46.567,0.589,0815-06-30,0.978,,NA,"Rome, Papal States",Italy,NA
-98,Paschal I,Paschal,1,,0775-06-30,0817-01-25,0824-02-11,41.57,48.615,7.045,0796-06-30,20.57,,NA,Rome,Italy,NA
-99,Eugene II,Eugene,2,,0780-06-30,0824-05-08,0827-08-27,43.856,47.158,3.302,0816-06-30,7.856,,NA,Rome,Italy,NA
-100,Valentine,Valentine,1,,0780-06-30,0827-08-31,0827-10-10,47.169,47.279,0.109,0820-06-30,7.169,,NA,Rome,Italy,NA
-101,Gregory IV,Gregory,4,,0790-06-30,0827-12-20,0844-01-25,37.473,53.57,16.097,0797-06-30,30.473,,NA,Rome,Italy,NA
-102,Sergius II,Sergius,2,,0790-06-30,0844-01-25,0847-01-27,53.57,56.575,3.005,Unknown,Unknown,,NA,Rome,Italy,NA
-103,Leo IV,Leo,4,,0790-06-30,0847-04-10,0855-07-17,56.779,65.048,8.269,0844-06-30,2.779,,NA,Rome,Italy,NA
-104,Benedict III,Benedict,3,,0810-06-30,0855-09-29,0858-04-17,45.247,47.798,2.55,0853-06-30,2.247,,NA,Rome,Italy,NA
-105,Nicholas I,Nicholas,1,,0800-06-30,0858-04-24,0867-11-13,57.817,67.37,9.553,0853-06-30,4.817,,NA,Rome,Italy,NA
-106,Adrian II,Adrian,2,,0792-06-30,0867-12-14,0872-12-14,75.456,80.456,5,0842-06-30,25.456,,NA,Rome,Italy,NA
-107,John VIII,John,8,,0820-06-30,0872-12-14,0882-12-16,52.456,62.462,10.005,0867-06-30,5.456,,NA,Rome,Italy,First pope to be assassinated. 
-108,Marinus I,Marinus,1,,0830-06-30,0882-12-16,0884-05-15,52.462,53.876,1.414,0880-06-30,2.462,,NA,"Gallese, Papal States",Italy,Erroneously also known as Martin II. 
-109,Adrian III,Adrian,3,,0830-06-30,0884-05-17,0885-07-08,53.881,55.023,1.142,Unknown,Unknown,,NA,Rome,Italy,"Adrian I was possibly his ancestor. His cultus was confirmed on June 2, 1891. His feast, according to the Roman Martyrology, is celebrated on July 8."
-110,Stephen V,Stephen,5,,0840-06-30,0885-09-14,0891-09-04,45.206,51.179,5.973,0882-06-30,3.206,,NA,Rome,Italy,NA
-111,Formosus,Formosus,1,,0805-06-30,0891-10-06,0896-04-04,86.268,90.762,4.494,0864-06-30,27.268,,NA,"Ostia, Papal States",Italy,"In early 897 posthumously executed following the Cadaver Synod. His body was reburied with full Christian honours in 897. His body was exhumed and he was tried and excommunicated by Pope Stephen V (VI) in January 897, nine months after his death. Buried in a common grave and later thrown in the river Tiber. A hermit retrieved his body and reburied him. He was rehabilitated by Pope John IX in the Roman Synod of April 898. "
-112,Boniface VI,Boniface,6,,0806-06-30,0896-04-11,0896-04-26,89.781,89.822,0.041,Unknown,Unknown,,NA,Rome,Italy,NA
-113,Stephen VI,Stephen,6,,0850-06-30,0896-05-22,0897-08-14,45.895,47.123,1.228,Unknown,Unknown,,NA,Rome,Italy,Held the infamous Cadaver Synod. 
-114,Romanus,Romanus,1,,0850-06-30,0897-08-14,0897-11-01,47.123,47.337,0.214,0867-06-30,30.123,,NA,"Gallese, Papal States",Italy,NA
-115,Theodore II,Theodore,2,,0840-06-30,0897-12-01,0897-12-20,57.421,57.473,0.052,Unknown,Unknown,,NA,Rome,Italy,NA
-116,John IX,John,9,,0840-06-30,0898-01-18,0900-01-05,57.55,59.515,1.964,Unknown,Unknown,,NA,Tivoli,Italy,NA
-117,Benedict IV,Benedict,4,,0840-06-30,0900-02-01,0903-07-30,59.587,63.083,3.496,NA,NA,,NA,Rome,Italy,NA
-118,Leo V,Leo,5,,0845-06-30,0903-07-30,0903-12-01,58.083,58.421,0.337,NA,NA,,NA,Ardea,Italy,Deposed and murdered. 
-119,Sergius III,Sergius,3,,0860-06-30,0904-01-29,0911-04-14,43.581,50.79,7.209,Unknown,Unknown,,NA,Rome,Italy,"""Saeculum obscurum"" begins. The first pope to be depicted with the Papal Tiara. "
-120,Anastasius III,Anastasius,3,,0865-06-30,0911-04-14,0913-06-01,45.79,47.921,2.131,Unknown,Unknown,,NA,Rome,Italy,NA
-121,Lando,Lando,1,,0865-06-30,0913-07-07,0914-02-05,48.02,48.598,0.578,Unknown,Unknown,,NA,"Sabina, Papal States",Italy,Last to use a new and non-composed regnal name until Francis (2013-) 
-122,John X,John,10,,0860-06-30,0914-03-01,0928-05-28,53.671,67.911,14.241,0907-06-30,6.671,,NA,"Tossignano, Papal States",Italy,NA
-123,Leo VI,Leo,6,,0880-06-30,0928-05-28,0928-12-01,47.911,48.421,0.509,Unknown,Unknown,,NA,Rome,Italy,NA
-124,Stephen VII,Stephen,7,,0880-06-30,0929-02-03,0931-02-13,48.593,50.62,2.027,Unknown,Unknown,,NA,Rome,Italy,NA
-125,John XI,John,11,,0910-06-30,0931-03-15,0935-12-01,20.709,25.421,4.712,Unknown,Unknown,,NA,Rome,Italy,"Probably, according to the Liber Pontificalis and Liutprand of Cremona, the son of Pope Sergius III, and not of Alberic I of Spoleto, who was Marozia's husband. "
-126,Leo VII,Leo,7,,0885-06-30,0936-01-03,0939-07-13,50.509,54.037,3.527,Unknown,Unknown,,NA,Rome,Italy,NA
-127,Stephen VIII,Stephen,8,,0900-06-30,0939-07-14,0942-10-30,39.04,42.333,3.294,Unknown,Unknown,,NA,Rome,Italy,NA
-128,Marinus II,Marinus,2,,0900-06-30,0942-10-30,0946-05-01,42.333,45.837,3.504,Unknown,Unknown,,NA,Rome,Italy,Erroneously also known as Martin III. 
-129,Agapetus II,Agapetus,2,,0905-06-30,0946-05-10,0955-11-08,40.862,50.356,9.495,Unknown,Unknown,,NA,Rome,Italy,NA
-130,John XII,John,12,,0934-06-30,0955-12-16,0964-05-14,21.462,29.873,8.411,Unknown,Unknown,,Octavian,Rome,Italy,"Third pope not to use his personal name (Octavian). Deposed in 963 by Emperor Otto invalidly; end of the ""Saeculum obscurum"". Possibly murdered in 964."
-131,Benedict V,Benedict,5,,0915-06-30,0964-05-22,0964-06-23,48.895,48.981,0.086,0961-06-30,2.895,,NA,Rome,Italy,"Elected by the people of Rome, in opposition to Leo VIII who was appointed by Emperor Otto; he accepted his own deposition in 964 leaving Leo VIII as the sole pope. "
-132,Leo VIII,Leo,8,,0915-06-30,0964-06-23,0965-03-01,48.981,49.671,0.69,NA,NA,,NA,Rome,Italy,His pontificate from 963 to 964 is considered illegitimate by today's Catholic Church
-133,John XIII,John,13,,0930-06-30,0965-10-01,0972-09-06,35.254,42.184,6.93,0964-06-30,1.254,,NA,Rome,Italy,"Chronicled after his death as ""the Good"". "
-134,Benedict VI,Benedict,6,,0925-06-30,0973-01-19,0974-06-08,47.553,48.94,1.387,0972-06-30,0.553,,NA,Rome,Italy,Deposed and murdered. 
-135,Benedict VII,Benedict,7,,0930-06-30,0974-10-01,0983-07-10,44.254,53.029,8.775,0972-06-30,2.254,,NA,Rome,Italy,NA
-136,John XIV,John,14,,0940-06-30,0983-12-01,0984-08-20,43.421,44.139,0.719,0981-06-30,2.421,,Pietro Canepanova,Pavia,Italy,Fourth pope not to use his personal name.
-137,John XV,John,15,,0950-06-30,0985-08-20,0996-04-01,35.139,45.754,10.615,Unknown,Unknown,, ,Rome,Italy,The first pope to formally canonize a saint. 
-138,Gregory V,Gregory,5,,0972-06-30,0996-05-03,0999-02-18,23.843,26.634,2.791,0995-06-30,0.843,,Bruno of Carinthia,"Germany, Holy Roman Empire",Austria,"the first official German pope and fifth not to use his personal name (Bruno). Henceforth, this decision became tradition among future popes. "
-139,Sylvester II,Sylvester,2,,0940-06-30,0999-04-02,1003-05-12,58.757,62.867,4.111,0998-06-30,0.757,,Gerbert d'Aurillac,Belliac or Auvergne in France,France,the first French (Occitan) pope. He is said to be the first in Christian Europe (outside of Al-Andalus) to introduce the decimal numeral system using the Hindu-Arabic numeral system. 
-140,John XVII,John,17,,0955-06-30,1003-05-16,1003-11-06,47.878,48.351,0.473,0996-06-30,6.878,,Giovanni Sicco ,"Rome, Papal States",Italy,NA
-141,John XVIII,John,18,,0965-06-30,1003-12-25,1009-07-18,38.486,44.05,5.564,1000-06-30,3.486,,Giovanni Fasano,"Rapagnano, Papal States",Italy,First pope born after the Papal States became a state of the Holy Roman Empire in 962.
-142,Sergius IV,Sergius,4,,0970-06-30,1009-07-31,1012-05-12,39.086,41.867,2.781,1004-06-30,5.086,,Pietro Martino Boccadiporco,"Rome, Papal States, Holy Roman Empire",Italy,NA
-143,Benedict VIII,Benedict,8,,0980-06-30,1012-05-18,1024-04-09,31.884,43.776,11.892,1001-06-30,10.884,,"Theophylactus II, Conti di Tusculum","Rome, Papal States, Holy Roman Empire",Italy,Brother of John XIX
-144,John XIX,John,19,,0975-06-30,1024-05-14,1032-10-06,48.873,57.268,8.395,Unknown,Unknown,,"Romanus, Conti di Tusculum","Rome, Papal States, Holy Roman Empire",Italy,Brother of Benedict VIII. 
-145,Benedict IX,Benedict,9,,1012-06-30,1032-10-21,1044-12-31,20.309,32.503,12.194,Unknown,Unknown,,"Theophylactus III, Conti di Tusculum","Rome, Papal States, Holy Roman Empire",Italy,first term. 
-146,Sylvester III,Sylvester,3,,1000-06-30,1045-01-13,1045-03-10,44.537,44.695,0.158,1044-06-30,0.537,,Giovanni dei Crescenzi Ottaviani ,"Rome, Papal States, Holy Roman Empire",Italy,Validity of election questioned; considered antipope; deposed at the Council of Sutri. 
-147,Benedict IX,Benedict,9,,1012-06-30,1045-03-10,1045-05-01,32.695,32.837,0.142,Unknown,Unknown,,"Theophylactus III, Conti di Tusculum","Rome, Papal States, Holy Roman Empire",Italy,Second term; deposed at the Council of Sutri.
-148,Gregory VI,Gregory,6,,1000-06-30,1045-05-05,1046-12-20,44.848,46.473,1.624,1012-06-30,32.848,,Giovanni Graziano Pierleoni,"Rome, Papal States, Holy Roman Empire",Italy,Deposed at the Council of Sutri. 
-149,Clement II,Clement,2,,0967-06-30,1046-12-24,1047-10-09,79.484,80.276,0.792,0996-06-30,50.484,,Suidger von Morsleben-Hornburg ,"Hornburg, Duchy of Saxony, Holy Roman Empire",Germany,NA
-150,Benedict IX,Benedict,9,,1012-06-30,1047-11-08,1048-07-17,35.356,36.048,0.691,Unknown,Unknown,,"Theophylactus III, Conti di Tusculum","Rome, Papal States, Holy Roman Empire",Italy,Third term; deposed and excommunicated.
-151,Damasus II,Damasus,2,,1000-06-30,1048-07-17,1048-08-09,48.048,48.109,0.061,NA,NA,,Poppo de Curagnoni ,"Pildenau, Duchy of Bavaria, Holy Roman Empire",Germany,NA
-152,Leo IX,Leo,9,1082-06-30,1002-07-21,1049-02-12,1054-04-19,46.559,51.745,5.186,Unknown,Unknown,1082-06-30,Bruno von Egisheim-Dagsburg,"Eguisheim, Swabia, Holy Roman Empire",France,NA
-153,Victor II,Victor,2,,1018-06-30,1055-04-13,1057-07-28,36.787,39.078,2.291,Unknown,Unknown,,Gebhard II von Calw-Dollnstein-Hirschberg,"Kingdom of Germany, Holy Roman Empire",Germany,NA
-154,Stephen IX,Stephen,9,,1020-06-30,1057-08-02,1058-03-29,37.09,37.747,0.657,1049-06-30,8.09,,Frederic de Lorraine,"Duchy of Lorraine, Holy Roman Empire",France,NA
-155,Nicholas II,Nicholas,2,,0980-06-30,1058-12-06,1061-07-27,78.434,81.075,2.641,NA,NA,,Gerald de Bourgogne,"Chateau de Chevron, Kingdom of Arles",France,NA
-156,Alexander II,Alexander,2,,1018-06-30,1061-09-30,1073-04-21,43.25,54.809,11.559,NA,NA,,Anselmo da Baggio,"Milan, Italy, Holy Roman Empire",Italy,NA
-157,Gregory VII,Gregory,7,1728-05-24,1015-06-30,1073-04-22,1085-05-25,57.811,69.903,12.092,1059-06-30,13.811,1728-05-24,Ildebrando Aldobrandeschi di Soana,"Sovana, Italy, Holy Roman Empire",Italy,NA
-158,Victor III,Victor,3,1887-07-23,1026-06-30,1086-05-24,1087-09-16,59.9,61.212,1.311,1059-06-30,26.9,1887-07-23,"Dauferio Epifani Del Zotto (Desiderio, Desiderius, Dauferius )","Benevento, Duchy of Benevento",Italy,NA
-159,Urban II,Urban,2,1881-07-14,1042-06-30,1088-03-12,1099-07-29,45.701,57.081,11.38,1073-06-30,14.701,1881-07-14,Odon de Lagery,"Lagery, County of Champagne, France",France,NA
-160,Paschal II,Paschal,2,,1050-06-30,1099-08-13,1118-01-21,49.12,67.559,18.439,1073-06-30,26.12,,Rainero Ranieri,"Bleda, Papal States, Holy Roman Empire",Italy,NA
-161,Gelasius II,Gelasius,2,,1061-06-30,1118-01-24,1119-01-29,56.567,57.581,1.014,1088-06-30,29.567,,Giovanni Caetani,"Gaeta, Principality of Capua",Italy,NA
-162,Callixtus II,Callixtus,2,,1060-06-30,1119-02-02,1124-12-13,58.59,64.453,5.864,Unknown,Unknown,,"Guido, Comte de Bourgogne","Quingey, County of Burgundy, Holy Roman Empire",France,of French ethnicity. 
-163,Honorius II,Honorius,2,,1060-02-09,1124-12-21,1130-02-13,64.866,70.011,5.145,1099-06-30,25.475,,Lamberto Scannabecchi da Fiagnano,"Fiagnano, Papal States, Holy Roman Empire",Italy,NA
-164,Innocent II,Innocent,2,,1082-06-30,1130-02-14,1143-09-24,47.623,61.234,13.611,1088-06-30,41.623,,Gregorio Papareschi,"Rome, Papal States, Holy Roman Empire",Italy,NA
-165,Celestine II,Celestine,2,,1085-06-30,1143-09-26,1144-03-08,58.239,58.69,0.451,1127-06-30,16.239,,Guido Guelfuccio de Castello ,"Citta di Castello, Papal States, Holy Roman Empire",Italy,NA
-166,Lucius II,Lucius,2,,1079-06-30,1144-03-12,1145-02-15,64.701,65.626,0.925,1122-12-15,21.242,,Gherardo Caccianemici dall'Orso,"Bologna, Papal States, Holy Roman Empire",Italy,NA
-167,Eugene III,Eugene,3,1872-12-28,1080-06-30,1145-02-15,1153-07-08,64.626,73.023,8.398,NA,NA,1872-12-28,Pietro dei Paganelli di Montemagno,"Pisa, Republic of Pisa, Holy Roman Empire",Italy,NA
-168,Anastasius IV,Anastasius,4,,1073-06-30,1153-07-12,1154-12-03,80.034,81.426,1.392,1127-06-30,26.034,,Corrado Demetri della Suburra,"Rome, Papal States, Holy Roman Empire",Italy,NA
-169,Adrian IV,Adrian,4,,1100-06-30,1154-12-04,1159-09-01,54.429,59.171,4.742,1146-06-30,8.429,,Nicholas Breakspear,"Abbots Langley, Hertfordshire, Kingdom of England",United Kingdom,The only English (Anglo-Saxon) pope
-170,Alexander III,Alexander,3,,1100-06-30,1159-09-07,1181-08-30,59.187,81.167,21.98,1150-06-30,9.187,,Rolando Bandinelli ,"Siena, Italy, Holy Roman Empire",Italy,NA
-171,Lucius III,Lucius,3,,1097-06-30,1181-09-01,1185-11-25,84.171,88.403,4.232,1141-06-30,40.171,,Ubaldo Allucignoli,"Lucca, Italy, Holy Roman Empire",Italy,NA
-172,Urban III,Urban,3,,1120-06-30,1185-11-25,1187-10-20,65.403,67.306,1.903,1173-09-15,12.194,,Uberto Crivelli,"Cuggiono, Italy, Holy Roman Empire",Italy,NA
-173,Gregory VIII,Gregory,8,,1100-06-30,1187-10-21,1187-12-17,87.309,87.464,0.156,1155-12-15,31.85,,Alberto di Morra,"Benevento, Papal States, Holy Roman Empire",Italy,NA
-174,Clement III,Clement,3,,1130-06-30,1187-12-19,1191-03-20,57.47,60.723,3.253,1179-03-15,8.761,,Paolo Scolari,"Rome, Papal States, Holy Roman Empire",Italy,NA
-175,Celestine III,Celestine,3,,1106-06-30,1191-03-30,1198-01-08,84.75,91.523,6.773,1144-02-09,47.141,,Giacinto Bobone Orsini,"Rome, Papal States, Holy Roman Empire",Italy,NA
-176,Innocent III,Innocent,3,,1161-06-30,1198-01-08,1216-07-16,36.523,55.045,18.522,1190-09-15,7.314,,Lothario dei Conti di Segni,"Gavignano, Papal States, Holy Roman Empire",Italy,NA
-177,Honorius III,Honorius,3,,1148-06-30,1216-07-18,1227-03-18,68.05,78.717,10.667,1193-02-20,23.411,,Cencio Savelli,"Rome, Papal States, Holy Roman Empire",Italy,NA
-178,Gregory IX,Gregory,9,,1145-06-30,1227-03-19,1241-08-22,81.72,96.145,14.425,1198-12-15,28.261,,Ugolino dei Conti di Segni,"Anagni, Papal States, Holy Roman Empire",Italy,NA
-179,Celestine IV,Celestine,4,,1180-06-30,1241-10-25,1241-11-10,61.32,61.362,0.042,1227-09-18,14.103,,Goffredo Castiglioni,"Milan, Italy, Holy Roman Empire",Italy,Died before coronation. 
-180,Innocent IV,Innocent,4,,1195-06-30,1243-06-25,1254-12-07,47.986,59.437,11.451,1227-09-18,15.769,,Sinibaldo Fieschi,"Genoa, Republic of Genoa, Holy Roman Empire",Italy,NA
-181,Alexander IV,Alexander,4,,1199-06-30,1254-12-12,1261-05-25,55.451,61.903,6.452,1227-09-18,27.234,,Rinaldo dei Conti di Jenne,"Jenne, Papal States, Holy Roman Empire",Italy,First pope born after the Papal States ceased to be a state of the Holy Roman Empire.
-182,Urban IV,Urban,4,,1195-06-30,1261-08-29,1264-10-02,66.164,69.257,3.093,NA,NA,,Jacques Pantaleon,"Troyes, County of Champagne, France",France,NA
-183,Clement IV,Clement,4,,1190-11-23,1265-02-05,1268-11-29,74.201,78.016,3.816,1261-12-17,3.134,,Gui Faucoi,"Saint-Gilles, Languedoc, France",France,NA
-184,Gregory X,Gregory,10,1713-07-08,1210-06-30,1271-09-01,1276-01-10,61.171,65.529,4.358,NA,NA,1713-07-08,Tebaldo Visconti,"Piacenza, Italy, Holy Roman Empire",Italy,NA
-185,Innocent V,Innocent,5,1898-03-09,1224-06-30,1276-01-21,1276-06-22,51.559,51.978,0.419,1273-06-03,2.633,1898-03-09,Pierre de Tarentaise,"County of Savoy, Holy Roman Empire",Italy,of French ethnicity. 
-186,Adrian V,Adrian,5,,1216-06-30,1276-07-11,1276-08-18,60.031,60.134,0.103,1251-12-15,24.572,,Ottobuono Fieschi,"Genoa, Republic of Genoa, Holy Roman Empire",Italy,NA
-187,John XXI,John,21,,1215-06-30,1276-09-08,1277-05-20,61.19,61.889,0.699,1273-06-03,3.264,,Pedro Julião (a.k.a. Petrus Hispanus and Pedro Hispano) ,"Lisbon, Portugal",Portugal,"Due to a confusion over the numbering of popes named John in the 13th century, the ordinal XX was skipped. "
-188,Nicholas III,Nicholas,3,,1216-06-30,1277-11-25,1280-08-22,61.403,64.145,2.742,1244-03-28,33.659,,Giovanni Gaetano Orsini,"Rome, Papal States, Holy Roman Empire",Italy,NA
-189,Martin IV,Martin,4,,1210-06-30,1281-02-22,1285-03-28,70.645,74.745,4.1,1261-12-17,19.18,,Simon de Brion,"Meinpicien, Touraine, France",France,NA
-190,Honorius IV,Honorius,4,,1210-06-30,1285-04-02,1287-04-03,74.757,76.759,2.003,1261-12-17,23.292,,Giacomo Savelli,"Rome, Papal States, Holy Roman Empire",Italy,NA
-191,Nicholas IV,Nicholas,4,,1227-09-30,1288-02-22,1292-04-04,60.395,64.512,4.117,1278-03-12,9.944,,Girolamo Masci,"Lisciano, Papal States, Holy Roman Empire",Italy,NA
-192,Celestine V,Celestine,5,1313-05-05,1215-06-30,1294-07-05,1294-12-13,79.015,79.453,0.439,NA,NA,1313-05-05,Pietro da Morrone or Pietro Angelerio,"Sant' Angelo Limosano, Kingdom of Sicily",Italy,Resigned from office and rumoured to have been murdered in prison by Boniface VIII. 
-193,Boniface VIII,Boniface,8,,1230-06-30,1294-12-24,1303-10-11,64.484,73.281,8.798,1281-04-12,13.7,,Benedetto Caetani,"Anagni, Papal States, Holy Roman Empire",Italy,NA
-194,Benedict XI,Benedict,11,1736-04-24,1240-06-30,1303-10-22,1304-07-07,63.311,64.02,0.709,1298-12-04,4.883,1736-04-24,Niccolo Boccasini,"Treviso, Italy, Holy Roman Empire",Italy,NA
-195,Clement V,Clement,5,,1264-06-30,1305-06-05,1314-04-20,40.932,49.806,8.874,NA,NA,,Raymond Bertrand de Gouth ,"Villandraut, Gascony, France",France,NA
-196,John XXII,John,22,,1244-06-30,1316-08-07,1334-12-04,72.104,90.429,18.325,1312-12-23,3.623,,Jacques d'Euse; Jacques Duèse,"Cahors, Quercy, France",France,NA
-197,Benedict XII,Benedict,12,,1280-06-30,1334-12-20,1342-04-25,54.473,61.82,7.347,1327-12-18,7.005,,Jacques Fournier,"Saverdun, County of Foix, France",France,NA
-198,Clement VI,Clement,6,,1291-06-30,1342-05-07,1352-12-06,50.854,61.434,10.581,1338-12-18,3.387,,Pierre Roger,"Maumont, Limousin, France",France,NA
-199,Innocent VI,Innocent,6,,1282-06-30,1352-12-18,1362-09-12,70.467,80.201,9.734,1342-09-20,10.245,,Etienne Aubert,"Les Monts, Limousin, France",France,NA
-200,Urban V,Urban,5,1870-03-10,1309-06-30,1362-09-28,1370-12-19,53.245,61.47,8.225,NA,NA,1870-03-10,Guillaume (de) Grimoard,"Grizac, Languedoc, France",France,NA
-201,Gregory XI,Gregory,11,,1329-06-30,1370-12-30,1378-03-27,41.5,48.742,7.242,1348-05-29,22.586,,Pierre Roger de Beaufort,"Maumont, Limousin, France ",France,The last French pope. 
-202,Urban VI,Urban,6,,1318-06-30,1378-04-08,1389-10-15,59.773,71.292,11.519,NA,NA,,Bartolomeo Prignano,"Naples, Kingdom of Naples",Italy,Last pontiff to be elected outside the College of Cardinals. 
-203,Boniface IX,Boniface,9,,1348-06-30,1389-11-02,1404-10-01,41.34,56.254,14.914,1381-12-21,7.865,,Pietro Tomacelli Cybo,"Naples, Kingdom of Naples",Italy,NA
-204,Innocent VII,Innocent,7,,1336-06-30,1404-10-17,1406-11-06,68.298,70.351,2.053,1389-12-18,14.831,,Cosimo Gentile Migliorati,"Sulmona, Kingdom of Naples",Italy,NA
-205,Gregory XII,Gregory,12,,1327-06-30,1406-11-30,1415-07-04,79.417,88.012,8.595,1405-06-12,1.466,,Angelo Correr,"Venice, Republic of Venice",Italy,Abdicated. 
-206,Martin V,Martin,5,,1369-06-30,1417-11-11,1431-02-20,48.365,61.639,13.275,1405-06-12,12.414,,Oddone Colonna,"Genazzano, Papal States",Italy,NA
-207,Eugene IV,Eugene,4,,1383-06-30,1431-03-03,1447-02-23,47.676,63.647,15.971,1408-05-09,22.817,,Gabriele Condulmer,"Venice, Republic of Venice",Italy,Nephew of Gregory XII. 
-208,Nicholas V,Nicholas,5,,1397-11-13,1447-03-06,1455-03-24,49.314,57.363,8.049,1446-12-16,0.223,,Tommaso Parentucelli,"Sarzana, Republic of Genoa",Italy,NA
-209,Callixtus III,Callixtus,3,,1378-12-31,1455-04-08,1458-08-06,76.27,79.598,3.328,1444-05-02,10.933,,Alfonso de Borja,"Xativa, Kingdom of Valencia, Crown of Aragon",Spain,The first Spanish (Valencian) pope.
-210,Pius II,Pius,2,,1405-10-18,1458-08-19,1464-08-15,52.836,58.825,5.989,1456-12-17,1.672,,Enea Silvio Piccolomini,"Corsignano, Republic of Siena",Italy,NA
-211,Paul II,Paul,2,,1417-02-23,1464-08-30,1471-07-26,47.519,54.425,6.906,1440-07-01,24.163,,Pietro Barbo,"Venice, Republic of Venice",Italy, The nephew of Eugene IV.
-212,Sixtus IV,Sixtus,4,,1414-07-21,1471-08-09,1484-08-12,57.05,70.059,13.008,1467-09-18,3.892,,Francesco della Rovere,"Celle Ligure, Republic of Genoa",Italy,NA
-213,Innocent VIII,Innocent,8,,1432-06-30,1484-08-29,1492-07-25,52.164,60.07,7.906,1473-05-07,11.31,,Giovanni Battista Cybo,"Genoa, Republic of Genoa",Italy,NA
-214,Alexander VI,Alexander,6,,1431-01-01,1492-08-11,1503-08-18,61.611,72.63,11.019,1456-09-17,35.9,,Rodrigo de Lanzol-Borgia,"Xativa, Kingdom of Valencia, Crown of Aragon",Spain,"Nephew of Callixtus III, second Spanish pope"
-215,Pius III,Pius,3,,1439-05-29,1503-09-22,1503-10-18,64.314,64.387,0.072,1460-03-05,43.547,,Francesco Todeschini Piccolomini,"Siena, Republic of Siena",Italy,Nephew of Pius II. 
-216,Julius II,Julius,2,,1443-12-05,1503-10-31,1513-02-21,59.905,69.21,9.306,1471-12-16,31.874,,Giuliano della Rovere,"Albisola, Republic of Genoa",Italy,Nephew of Sixtus IV
-217,Leo X,Leo,10,,1475-12-11,1513-03-09,1521-12-01,37.244,45.973,8.728,1489-03-09,24,,Giovanni di Lorenzo de' Medici,"Florence, Republic of Florence",Italy,The last pope to not have been in priestly orders at the time of his election to the papacy. 
-218,Adrian VI,Adrian,6,,1459-03-02,1522-01-09,1523-09-14,62.852,64.533,1.68,1517-07-01,4.522,,Adriaan Floriszoon Boeyens,"Utrecht, Bishopric of Utrecht, Holy Roman Empire (presently The Netherlands",Netherlands, The only Dutch pope; last non-Italian to be elected pope until John Paul II in 1978.
-219,Clement VII,Clement,7,,1478-05-26,1523-11-26,1534-09-25,45.5,56.331,10.831,1513-09-23,10.175,,Giulio di Giuliano de' Medici,"Florence, Republic of Florence",Italy,Cousin of Leo X. 
-220,Paul III,Paul,3,,1468-02-29,1534-10-13,1549-11-10,66.623,81.698,15.075,1493-09-20,41.064,,Alessandro Farnese,"Canino, Lazio, Papal States",Italy,NA
-221,Julius III,Julius,3,,1487-09-10,1550-02-07,1555-03-29,62.408,67.552,5.144,1536-12-22,13.126,,Giovanni Maria Ciocchi del Monte,"Rome, Papal States",Italy,NA
-222,Marcellus II,Marcellus,2,,1501-05-06,1555-04-09,1555-05-01,53.925,53.986,0.061,1539-12-19,15.306,,Marcello Cervini degli Spannochi,"Montefano, Marche, Papal States",Italy,The last to use his birth name as the regnal name.
-223,Paul IV,Paul,4,,1476-06-28,1555-05-23,1559-08-18,78.903,83.139,4.236,1536-12-22,18.419,,Giovanni Pietro Carafa,"Capriglia Irpina, Campania, Kingdom of Naples",Italy,NA
-224,Pius IV,Pius,4,,1499-03-31,1559-12-26,1565-12-09,60.736,66.69,5.953,1549-04-08,10.716,,Giovanni Angelo Medici,"Milan, Duchy of Milan",Italy,NA
-225,Pius V,Pius,5,1712-05-22,1504-01-17,1566-01-07,1572-05-01,61.973,68.29,6.317,1557-03-15,8.811,1712-05-22,Antonio Ghislieri,"Bosco, Duchy of Milan",Italy,NA
-226,Gregory XIII,Gregory,13,,1502-01-07,1572-05-13,1585-04-10,70.35,83.258,12.908,1565-03-12,7.169,,Ugo Boncompagni,"Bologna, Papal States",Italy,NA
-227,Sixtus V,Sixtus,5,,1521-12-13,1585-04-24,1590-08-27,63.363,68.705,5.342,1570-05-17,14.936,,Felice Peretti di Montalto,"Grottammare, Marche, Papal States",Italy,NA
-228,Urban VII,Urban,7,,1521-08-04,1590-09-15,1590-09-27,69.113,69.146,0.033,1583-12-12,6.758,,Giovanni Battista Castagna,"Rome, Papal States",Italy,"Shortest-reigning pope; died before coronation. Set the first known worldwide smoking ban, banning smoking in and near all churches. "
-229,Gregory XIV,Gregory,14,,1535-02-11,1590-12-05,1591-10-16,55.817,56.68,0.863,1583-12-12,6.981,,Niccolo Sfondrati,"Somma Lombardo, Duchy of Milan",Italy,NA
-230,Innocent IX,Innocent,9,,1519-07-20,1591-10-29,1591-12-30,72.275,72.444,0.169,1583-12-12,7.88,,Giovanni Antonio Facchinetti,"Bologna, Papal States",Italy,NA
-231,Clement VIII,Clement,8,,1536-02-24,1592-01-30,1605-03-03,55.933,69.026,13.093,1585-12-18,6.116,,Ippolito Aldobrandini,"Fano, Marche, Papal States",Italy,NA
-232,Leo XI,Leo,11,,1535-06-02,1605-04-01,1605-04-27,69.831,69.902,0.071,1583-12-12,21.303,,Alessandro Ottaviano de Medici,"Florence, Duchy of Florence",Italy,"The great-nephew of Leo X. Called ""Papa Lampo"" (Lightning Pope) for his brief pontificate. "
-233,Paul V,Paul,5,,1550-09-17,1605-05-16,1621-01-28,54.664,70.363,15.699,1596-06-05,8.947,,Camillo Borghese,"Rome, Papal States",Italy,NA
-234,Gregory XV,Gregory,15,,1554-01-09,1621-02-09,1623-07-08,67.083,69.497,2.414,1616-09-19,4.389,,Alessandro Ludovisi,"Bologna, Papal States",Italy,NA
-235,Urban VIII,Urban,8,,1568-04-05,1623-08-06,1644-07-29,55.336,76.316,20.98,1606-09-11,16.903,,Maffeo Barberini,"Florence, Grand Duchy of Tuscany",Italy,The last pope to expand papal territory by force of arms. Issued a 1624 bill that made the use of tobacco in holy places punishable by excommunication. 
-236,Innocent X,Innocent,10,,1574-05-06,1644-09-15,1655-01-07,70.358,80.669,10.311,1627-08-30,17.042,,Giovanni Battista Pamphilj,"Rome, Papal States",Italy,The great-great-great-grandson of Alexander VI.
-237,Alexander VII,Alexander,7,,1599-02-13,1655-04-07,1667-05-22,56.15,68.275,12.124,1652-02-19,3.134,,Fabio Chigi,"Siena, Grand Duchy of Tuscany",Italy,Great-nephew of Paul V. 
-238,Clement IX,Clement,9,,1600-01-28,1667-06-20,1669-12-09,67.395,69.865,2.47,1657-04-09,10.197,,Giulio Rospigliosi,"Pistoia, Grand Duchy of Tuscany",Italy,NA
-239,Clement X,Clement,10,,1590-07-13,1670-04-29,1676-07-22,79.794,86.025,6.231,1669-11-29,0.417,,Emilio Bonaventura Altieri,"Rome, Papal States",Italy,Canonized the first saint from the Americas: St. Rose of Lima (1671)
-240,Innocent XI,Innocent,11,1956-10-07,1611-05-16,1676-09-21,1689-08-12,65.347,78.239,12.892,1645-03-06,31.541,1956-10-07,Benedetto Odescalchi,"Como, Duchy of Milan",Italy,NA
-241,Alexander VIII,Alexander,8,,1610-04-22,1689-10-06,1691-02-01,79.456,80.776,1.32,1652-02-19,37.631,,Pietro Vito Ottoboni,"Venice, Republic of Venice",Italy,NA
-242,Innocent XII,Innocent,12,,1615-03-13,1691-07-12,1700-09-27,76.331,85.538,9.208,1681-09-01,9.863,,Antonio Pignatelli,"Spinazzola, Kingdom of Naples",Italy,NA
-243,Clement XI,Clement,11,,1649-07-23,1700-11-23,1721-03-19,51.333,71.656,20.322,1690-02-13,10.777,,Giovanni Francesco Albani,"Urbino, Marche, Papal States",Italy,NA
-244,Innocent XIII,Innocent,13,,1655-05-13,1721-05-08,1724-03-07,65.986,68.817,2.831,1706-06-07,14.919,,Michelangelo dei Conti,"Poli, Lazio, Papal States",Italy,NA
-245,Benedict XIII,Benedict,13,2017-02-24,1649-02-02,1724-05-29,1730-02-21,75.324,81.052,5.728,1672-02-22,52.269,2017-02-24,Pietro Francesco Orsini,"Gravina in Puglia, Kingdom of Naples",Italy,third and last member of the Orsini family to be pope. Originally called Benedict XIV due to the antipope but reverted to XIII. Repealed the worldwide tobacco smoking ban set by Urban VII and Urban VIII.
-246,Clement XII,Clement,12,,1652-04-07,1730-07-12,1740-02-06,78.264,87.831,9.567,1706-05-17,24.153,,Lorenzo Corsini,"Florence, Grand Duchy of Tuscany",Italy,NA
-247,Benedict XIV,Benedict,14,,1675-03-31,1740-08-17,1758-05-03,65.378,83.09,17.712,1726-12-09,13.689,,Prospero Lorenzo Lambertini,"Bologna, Papal States",Italy,NA
-248,Clement XIII,Clement,13,,1693-03-07,1758-07-06,1769-02-02,65.331,75.903,10.572,1737-12-20,20.545,,Carlo della Torre di Rezzonico,"Venice, Republic of Venice",Italy,NA
-249,Clement XIV,Clement,14,,1705-10-31,1769-05-19,1774-09-22,63.55,68.892,5.342,1759-09-24,9.653,,Giovanni Vincenzo Antonio Ganganelli,"Sant' Arcangelo di Romagna, Papal States",Italy,NA
-250,Pius VI,Pius,6,,1717-12-25,1775-02-15,1799-08-29,57.139,81.678,24.538,1773-04-26,1.803,,Count Giovanni Angelo Braschi,"Cesena, Papal States",Italy,The last pope to be a patron of Renaissance art. 
-251,Pius VII,Pius,7,2007-08-15,1742-08-14,1800-03-14,1823-08-20,57.583,81.016,23.433,1785-02-14,15.083,2007-08-15,Barnaba Niccolò Maria Luigi Chiaramonti,"Cesena, Papal States",Italy,NA
-252,Leo XII,Leo,12,,1760-08-22,1823-09-28,1829-02-10,63.1,68.467,5.367,1816-03-08,7.555,,Annibale Francesco Clemente Melchiore Girolamo Nicola Sermattei della Genga,"Genga or Spoleto, Papal States",Italy,NA
-253,Pius VIII,Pius,8,,1761-11-20,1829-03-31,1830-11-30,67.363,69.027,1.664,1816-03-08,13.063,,Francesco Saverio Castiglioni,"Cingoli, Marche, Papal States",Italy,NA
-254,Gregory XVI,Gregory,16,,1765-09-18,1831-02-02,1846-06-01,65.373,80.703,15.331,1825-03-21,5.865,,Bartolomeo Alberto Cappellari,"Belluno, Republic of Venice",Italy,last non-bishop to be elected to the papacy.
-255,Pius IX,Pius,9,2000-09-03,1792-05-13,1846-06-16,1878-02-07,54.092,85.734,31.642,1839-12-23,6.481,2000-09-03,Giovanni Maria Mastai-Ferretti,"Senigallia, Marche, Papal States",Italy,Longest-serving pope since Peter (c. AD 30–64). 
-256,Leo XIII,Leo,13,,1810-03-02,1878-02-20,1903-07-20,67.966,93.383,25.417,1853-12-19,24.169,,Gioacchino Vincenzo Raffaele Luigi Pecci,"Carpineto Romano, Rome departement, French Empire (now Italy)",Italy,"Born as a French citizen, of Italian ethnicity, later became a subject of the Papal States and finally an Italian citizen.Had the third-longest reign after Pius IX, and John Paul II. first pope to fully embrace the concept of Mary as mediatrix. First Pope to be filmed by a motion picture camera and the first pope with voice recorded."
-257,Pius X,Pius,10,1954-05-29,1835-06-02,1903-08-04,1914-08-20,68.172,79.216,11.044,1893-06-12,10.145,1954-05-29,Giuseppe Melchiorre Sarto,"Riese, Lombardy-Venetia, Austrian Empire",Italy,NA
-258,Benedict XV,Benedict,15,,1854-11-21,1914-09-03,1922-01-22,59.784,67.169,7.385,1914-03-25,0.44,,Giacomo Della Chiesa,"Genoa, Kingdom of Sardinia",Italy,NA
-259,Pius XI,Pius,11,,1857-05-31,1922-02-06,1939-02-10,64.682,81.692,17.011,1921-06-13,0.647,,Achille Ambrogio Damiano Ratti,"Desio, Lombardy-Venetia, Austrian Empire",Italy,NA
-260,Pius XII,Pius,12,2009-12-19,1876-03-02,1939-03-02,1958-10-09,63,82.603,19.603,1929-12-16,9.212,2009-12-19,Eugenio Maria Giuseppe Giovanni Pacelli,"Rome, Italy",Italy,Eliminated the Italian majority of cardinals. 
-261,John XXIII,John,23,2014-04-27,1881-11-25,1958-10-28,1963-06-03,76.925,81.523,4.598,1953-01-12,5.794,2014-04-27,Angelo Giuseppe Roncalli,"Sotto il Monte, Bergamo, Italy",Italy,NA
-262,Paul VI,Paul,6,2018-10-14,1897-09-26,1963-06-21,1978-08-06,65.736,80.862,15.126,1958-12-15,4.516,2018-10-14,Giovanni Battista Enrico Antonio Maria Montini,"Concesio, Brescia, Italy",Italy,Last pope to be crowned. First pope since 1809 to travel outside Italy. 
-263,John Paul I,John Paul,1,2022-09-04,1912-10-17,1978-08-26,1978-09-28,65.858,65.947,0.089,1973-03-05,5.474,2022-09-04,Albino Luciani,"Forno di Canale, Veneto, Italy",Italy,Abolished the coronation and opted for the papal inauguration. First pope to use 'the First' in papal name; first with two names for two immediate predecessors. Last pope to use the sedia gestatoria. 
-264,John Paul II,John Paul,2,2014-04-27,1920-05-18,1978-10-16,2005-04-02,58.411,84.873,26.462,1967-06-26,11.306,2014-04-27,Karol Jozef Wojtyla,"Wadowice, Poland",Poland,"first pope of Slavic origin. First non-Italian pope since Adrian VI (1522–1523). Travelled extensively, visiting 129 countries during his pontificate. Second-longest reign after Pius IX. Canonized more saints than all his predecessors. Youngest individual to start his papacy since Pius IX (1846). "
-265,Benedict XVI,Benedict,16,,1927-04-16,2005-04-19,2013-02-28,78.008,85.866,7.858,1977-06-27,27.811,,Joseph Alois Ratzinger,"Marktl am Inn, Bavaria, Germany",Germany,"Oldest to become pope since Clement XII (1730). Elevated the Tridentine Mass to a more prominent position and promoted the use of Latin; re-introduced several disused papal garments. Authorized the creation of Anglican ordinariates (2009). First pope to renounce the papacy on his own initiative since Celestine V (1294),[47] becoming pope emeritus.[48] Longest-lived pope on record."
-266,Francis,Francis,1,,1936-12-17,2013-03-13,2025-04-21,76.239,88.344,12.105,2001-02-21,12.061,,Jorge Mario Bergoglio,Buenos Aires,Argentina,First pope to be born outside Europe since Gregory III (731–741) and the first from the Americas; first pope from the Southern Hemisphere. First pope from a religious institute since Gregory XVI (1831–1846); first Jesuit pope. First to use a new and non-composed regnal name since Lando (913–914). First pope to visit and celebrate a mass on the Arabian Peninsula.
-267,Leo XIV,Leo,14,,1955-12-14,2025-05-08,NA,69.4,NA,NA,2023-09-30,1.606,,Robert Francis Prevost,Chicago,USA,"He is the first pope to have been born in the United States, the first from North America, the first to hold either U.S. or Peruvian citizenships (or both), the first born after World War II, the first from the Order of Saint Augustine, and the second (after his immediate predecessor Pope Francis) from the Americas. "
+number,name_full,name,suffix,canonization,birth,start,end,start_age,end_age,tenure_years,cardinalate_date,age_at_cardinalate,years_as_cardinal,canonization,Personal Name,Place of Birth,Modern-day country of birth,Comments
+1,Peter,Peter,1,,0001-06-30,0030-06-30,0068-06-30,29,67,38,NA,NA,NA,,"Shimon son of Yonah, Simeon Kephas","Bethsaida, Galilea",Israel,Jew from Judaea
+2,Linus,Linus,1,,0010-06-30,0068-06-30,0080-06-30,58,70,12,NA,NA,NA,,NA,"Volterrae, Tuscia (Central Tuscany)",Italy,First Roman pope (Roman citizen)
+3,Anacletus,Anacletus,1,,0016-06-30,0080-06-30,0092-06-30,64,76,12,NA,NA,NA,,NA,Probably Greece (Athens),Greece,First Greek pope.
+4,Clement I,Clement,1,,0035-06-30,0092-06-30,0100-06-30,57,65,8,NA,NA,NA,,NA,Rome,Italy,NA
+5,Evaristus,Evaristus,1,,0030-06-30,0100-06-30,0108-06-30,70,78,8,NA,NA,NA,,NA,"Bethlehem, Judea",West Bank,Hellenized Jew.
+6,Alexander I,Alexander,1,,0075-06-30,0108-06-30,0115-06-30,33,40,7,NA,NA,NA,,NA,Rome,Italy,NA
+7,Sixtus I,Sixtus,1,,0042-06-30,0115-06-30,0125-04-03,73,82.759,9.759,NA,NA,NA,,NA,Rome,Italy,Possibly of Greek descent
+8,Telesphorus,Telesphorus,1,,0067-06-30,0125-04-03,0136-01-05,57.759,68.515,10.755,NA,NA,NA,,NA,"Greece or Terra Nova, Calabria, Italy",Greece or Italy,NA
+9,Hyginus,Hyginus,1,,0074-06-30,0136-01-05,0140-01-11,61.515,65.531,4.016,NA,NA,NA,,NA,"Athens, Greece",Greece,NA
+10,Pius I,Pius,1,,0081-06-30,0140-01-11,0155-07-11,58.531,74.031,15.5,NA,NA,NA,,NA,"Aquileia, Friuli, Italy",Italy,NA
+11,Anicetus,Anicetus,1,,0092-06-30,0155-07-11,0166-04-20,63.031,73.806,10.775,NA,NA,NA,,NA,"Emesa, Syria",Syria,Hellenized Syrian; first Syrian pope.
+12,Soter,Soter,1,,0119-06-30,0166-04-20,0174-04-22,46.806,54.811,8.005,NA,NA,NA,,NA,"Fondi, Latium, Italy",Italy,NA
+13,Eleutherius,Eleutherius,1,,0130-06-30,0174-04-22,0189-05-26,43.811,58.906,15.094,NA,NA,NA,,NA,"Nicopoli, Epyrus",Greece,NA
+14,Victor I,Victor,1,,0120-06-30,0189-05-26,0199-07-28,68.906,79.078,10.172,NA,NA,NA,,NA,Northern Africa,Africa,Roman Berber; first pope to have been born on the continent of Africa.
+15,Zephyrinus,Zephyrinus,1,,0160-06-30,0199-07-28,0217-12-20,39.078,57.473,18.395,NA,NA,NA,,NA,Rome,Italy,NA
+16,Callixtus I,Callixtus,1,,0155-06-30,0217-12-20,0222-10-14,62.473,67.29,4.817,NA,NA,NA,,NA,Ravenna,Italy,NA
+17,Urban I,Urban,1,,0175-06-30,0222-10-14,0230-05-23,47.29,54.897,7.608,NA,NA,NA,,NA,Rome,Italy,NA
+18,Pontian,Pontian,1,,0175-06-30,0230-08-21,0235-09-28,55.142,60.245,5.103,NA,NA,NA,,NA,Rome,Italy,First to abdicate after exile to Sardinia by Emperor Maximinus Thrax.
+19,Anterus,Anterus,1,,0180-06-30,0235-11-21,0236-01-03,55.392,55.509,0.117,NA,NA,NA,,NA,"Greece or Petilia, Calabria, Italy",Greece or Italy,Greek
+20,Fabian,Fabian,1,,0200-06-30,0236-01-10,0250-01-20,35.529,49.556,14.027,NA,NA,NA,,NA,Rome,Italy,NA
+21,Cornelius,Cornelius,1,,0180-06-30,0251-03-06,0253-06-25,70.684,72.986,2.302,NA,NA,NA,,NA,Rome,Italy,NA
+22,Lucius I,Lucius,1,,0200-06-30,0253-06-25,0254-03-05,52.986,53.682,0.695,NA,NA,NA,,NA,Rome,Italy,NA
+23,Stephen I,Stephen,1,,0205-06-30,0254-03-12,0257-08-02,48.701,52.09,3.389,NA,NA,NA,,NA,Rome,Italy,Greek descent
+24,Sixtus II,Sixtus,2,,0215-06-30,0257-08-30,0258-08-06,42.167,43.101,0.934,NA,NA,NA,,NA,Greece or Italy,Greece or Italy,NA
+25,Dionysius,Dionysius,1,,0200-06-30,0259-07-22,0268-12-26,59.061,68.489,9.428,NA,NA,NA,,NA,Magna Graecia (Italy) or unknown,Italy or unknown,NA
+26,Felix I,Felix,1,,0206-06-30,0269-01-05,0274-12-30,62.515,68.5,5.985,NA,NA,NA,,NA,Rome,Italy,NA
+27,Eutychian,Eutychian,1,,0240-06-30,0275-01-04,0283-12-07,34.512,43.437,8.925,NA,NA,NA,,NA,"Luna, Tuscany, Italy",Italy,NA
+28,Caius,Caius,1,,0245-06-30,0283-12-17,0296-04-22,38.464,50.811,12.347,NA,NA,NA,,NA,Dalmatia,Croatia,NA
+29,Marcellinus,Marcellinus,1,,0250-06-30,0296-06-30,0304-04-26,46,53.822,7.822,NA,NA,NA,,NA,Rome,Italy,NA
+30,Marcellus I,Marcellus,1,,0255-01-06,0308-05-27,0309-01-16,53.391,54.027,0.637,NA,NA,NA,,NA,Rome,Italy,NA
+31,Eusebius,Eusebius,1,,0255-06-30,0309-04-18,0310-08-17,53.8,55.131,1.331,NA,NA,NA,,NA,"Achaea, Greece",Greece,NA
+32,Miltiades,Miltiades,1,,0270-06-30,0311-07-02,0314-01-10,41.007,43.529,2.522,NA,NA,NA,,NA,Africa,Africa,of Berber descent
+33,Sylvester I,Sylvester,1,,0285-06-30,0314-01-31,0335-12-31,28.586,50.503,21.917,NA,NA,NA,,NA,"Sant'Angelo a Scala, Avellino",Italy,NA
+34,Mark,Mark,1,,0290-06-30,0336-01-18,0336-10-07,45.55,46.27,0.72,NA,NA,NA,,NA,Rome,Italy,NA
+35,Julius I,Julius,1,,0280-06-30,0337-02-06,0352-04-12,56.601,71.784,15.183,NA,NA,NA,,NA,Rome,Italy,NA
+36,Liberius,Liberius,1,,0310-06-30,0352-05-17,0366-09-24,41.881,56.234,14.353,NA,NA,NA,,NA,Rome,Italy,Earliest Pope not yet canonized by the Roman Church. Revered as a saint in Eastern Christianity.
+37,Damasus I,Damasus,1,,0305-06-30,0366-10-01,0384-12-11,61.254,79.448,18.194,NA,NA,NA,,NA,Rome or Lusitania (Portugal),Italy or Portugal,The first pope from modern-day Portugal.
+38,Siricius,Siricius,1,,0334-06-30,0384-12-17,0399-11-26,50.464,65.406,14.941,NA,NA,NA,,NA,Rome,Italy,"Authored important decretal of 386 (written to Bishop Himerius of Tarragona), commanding celibacy for priests, the first decree on this subject."
+39,Anastasius I,Anastasius,1,,0340-06-30,0399-11-27,0401-12-19,59.408,61.47,2.061,NA,NA,NA,,NA,Rome,Italy,NA
+40,Innocent I,Innocent,1,,0378-06-30,0401-12-21,0417-03-12,23.475,38.701,15.225,NA,NA,NA,,NA,Albano Laziale or Albania,Italy or Albania,NA
+41,Zosimus,Zosimus,1,,0370-06-30,0417-03-18,0418-12-26,46.717,48.489,1.772,NA,NA,NA,,NA,Calabria,Italy,of Greek descent. 
+42,Boniface I,Boniface,1,,0377-06-30,0418-12-28,0422-09-04,41.495,45.179,3.684,NA,NA,NA,,NA,Rome,Italy,NA
+43,Celestine I,Celestine,1,,0380-06-30,0422-09-10,0432-07-27,42.195,52.075,9.88,NA,NA,NA,,NA,"Campania, Western Roman Empire",Italy,NA
+44,Sixtus III,Sixtus,3,,0390-06-30,0432-07-31,0440-08-18,42.086,50.134,8.048,NA,NA,NA,,NA,Rome,Italy,NA
+45,Leo I,Leo,1,,0390-06-30,0440-09-29,0461-11-10,50.247,71.362,21.115,NA,NA,NA,,NA,Etruria,Italy,NA
+46,Hilary,Hilary,1,,0400-06-30,0461-11-19,0468-02-29,61.387,67.664,6.277,NA,NA,NA,,NA,"Sardinia, Western Roman Empire",Italy,NA
+47,Simplicius,Simplicius,1,,0430-06-30,0468-03-03,0483-03-10,37.676,52.695,15.019,NA,NA,NA,,NA,Tibur,Italy,NA
+48,Felix III,Felix,3,,0440-06-30,0483-03-13,0492-03-01,42.703,51.671,8.967,NA,NA,NA,,NA,Rome,Italy,Great-great-grandfather of pope Gregory I.
+49,Gelasius I,Gelasius,1,,0410-06-30,0492-03-01,0496-11-21,81.671,86.392,4.721,NA,NA,NA,,NA,Africa,Algeria,"of Berber descent. the last pope to have been born on the continent of Africa. The first pope called the ""Vicar of Christ"""
+50,Anastasius II,Anastasius,2,,0445-06-30,0496-11-24,0498-11-19,51.4,53.387,1.986,0494-06-30,49y,2.4,,NA,Rome,Italy,of Greek descent. Earliest pope not canonized by either the Latin Church or the Eastern Church. 
+51,Symmachus,Symmachus,1,,0460-06-30,0498-11-22,0514-07-19,38.395,54.053,15.658,0496-06-30,36y,2.395,,NA,Sardinia,Italy,NA
+52,Hormisdas,Hormisdas,1,,0450-06-30,0514-07-20,0523-08-06,64.056,73.101,9.045,Unknown,NA,Unknown,,NA,Frusino,Italy,NA
+53,John I,John,1,,0470-06-30,0523-08-13,0526-05-18,53.12,55.884,2.764,0495-06-30,25y,28.12,,NA,Tuscany,Italy,NA
+54,Felix IV,Felix,4,,0490-06-30,0526-07-12,0530-09-22,36.034,40.228,4.194,0515-06-30,25y,11.034,,NA,Samnium,Italy,NA
+55,Boniface II,Boniface,2,,0490-06-30,0530-09-22,0532-10-17,40.228,42.298,2.07,Unknown,NA,Unknown,,NA,Rome to Ostrogoth parents,Italy,First Germanic pope. Changed the numbering of the years in the Julian Calendar from the Era of the Martyrs to Anno Domini. 
+56,John II,John,2,,0473-06-30,0533-01-02,0535-05-08,59.507,61.856,2.35,0531-06-30,58y,1.507,,Mercurius,Rome,Italy,First pope not to use his personal name
+57,Agapetus I,Agapetus,1,,0490-06-30,0535-05-13,0536-04-22,44.87,45.811,0.941,0530-06-30,40y,4.87,,NA,"Rome, Ostrogothic Kingdom",Italy,NA
+58,Silverius,Silverius,1,,0480-06-30,0536-06-08,0537-03-11,55.94,56.698,0.758,NA,NA,NA,,NA,Campania,Italy,Son of Pope Hormisdas before he became a priest.
+59,Vigilius,Vigilius,1,,0500-06-30,0537-03-29,0555-06-07,36.747,54.937,18.19,Unknown,NA,Unknown,,NA,Rome,Italy,NA
+60,Pelagius I,Pelagius,1,,0505-06-30,0556-04-16,0561-03-04,50.795,55.679,4.884,0544-06-30,39y,11.795,,NA,Rome,Italy,NA
+61,John III,John,3,,0520-06-30,0561-07-17,0574-07-13,41.048,54.037,12.989,Unknown,NA,Unknown,,Catelinus,"Rome, Eastern Roman Empire",Italy,Second Pope not to use his personal name. 
+62,Benedict I,Benedict,1,,0525-06-30,0575-06-02,0579-07-30,49.923,54.083,4.16,NA,NA,NA,,NA,Rome,Italy,NA
+63,Pelagius II,Pelagius,2,,0520-06-30,0579-11-26,0590-02-07,59.406,69.604,10.198,NA,NA,NA,,NA,Rome,Italy,NA
+64,Gregory I,Gregory,1,,0540-06-30,0590-09-03,0604-03-12,50.176,63.701,13.525,NA,NA,NA,,NA,Rome,Italy,Great-great-grandson of pope Felix III.
+65,Sabinian,Sabinian,1,,0530-06-30,0604-09-13,0606-02-22,74.203,75.645,1.441,0590-06-30,60y,14.203,,NA,Blera,Italy,NA
+66,Boniface III,Boniface,3,,0540-06-30,0607-02-19,0607-11-12,66.637,67.367,0.731,0590-06-30,50y,16.637,,NA,Rome,Italy,of Greek descent. 
+67,Boniface IV,Boniface,4,,0550-06-30,0608-09-15,0615-05-08,58.209,64.856,6.647,0591-06-30,41y,17.209,,NA,Marsi,Italy,First Pope to bear the same name as his predecessor. Member of the Order of Saint Benedict.
+68,Adeodatus I,Adeodatus,1,,0570-06-30,0615-11-13,0618-11-08,45.37,48.356,2.986,0590-06-30,20y,25.37,,NA,Rome,Italy,"The first pope to use lead seals on papal documents, which in time came to be called papal bulls. "
+69,Boniface V,Boniface,5,,0575-06-30,0619-12-23,0625-10-25,44.481,50.32,5.839,NA,NA,NA,,NA,Naples,Italy,NA
+70,Honorius I,Honorius,1,,0585-06-30,0625-10-27,0638-10-12,40.325,53.284,12.959,NA,NA,NA,,NA,"Campania, Byzantine Empire",Italy,NA
+71,Severinus,Severinus,1,,0585-06-30,0640-05-28,0640-08-02,54.911,55.09,0.179,0637-06-30,52y,,,NA,Rome,Italy,NA
+72,John IV,John,4,,0587-06-30,0640-12-24,0642-10-12,53.484,55.284,1.8,0636-06-30,49y,,,NA,"Iadera, Dalmatia","Zadar, Croatia",NA
+73,Theodore I,Theodore,1,,0610-06-30,0642-11-24,0649-05-14,32.4,38.873,6.473,0641-06-30,31y,1.4,,NA,Jerusalem,Israel,of Greek ethnicity. The last pope from Palestine. the only pope to have been a native of Jerusalem.
+74,Martin I,Martin,1,,0590-06-30,0649-07-05,0654-08-10,59.015,64.112,5.097,0648-06-30,58y,1.015,,NA,"Near Todi, Umbria, Byzantine Empire",Italy,Last pope recognized as a martyr. 
+75,Eugene I,Eugene,1,,0615-06-30,0654-08-10,0657-06-02,39.112,41.923,2.811,0654-06-30,39y,0.112,,NA,Rome,Italy,NA
+76,Vitalian,Vitalian,1,,0600-06-30,0657-07-30,0672-01-27,57.083,71.575,14.492,0654-06-30,54y,3.083,,NA,"Segni, Byzantine Empire",Italy,NA
+77,Adeodatus II,Adeodatus,2,,0621-06-30,0672-04-11,0676-06-17,50.781,54.964,4.183,NA,NA,NA,,NA,"Rome, Byzantine Empire",Italy,NA
+78,Donus,Donus,1,,0610-06-30,0676-11-02,0678-04-11,66.34,67.781,1.441,0675-06-30,65y,1.34,,NA,"Rome, Byzantine Empire",Italy,NA
+79,Agatho,Agatho,1,,0577-06-30,0678-06-27,0681-01-10,100.992,103.529,2.537,0676-06-30,99y,1.992,,NA,Sicily,Italy,of Greek ethnicity.
+80,Leo II,Leo,2,,0611-06-30,0682-08-17,0683-07-03,71.131,72.009,0.878,0680-06-30,69y,2.131,,NA,Sicily,Italy,of Greek ethnicity.
+81,Benedict II,Benedict,2,,0635-06-30,0684-06-26,0685-05-08,48.989,49.856,0.867,0681-06-30,46y,2.989,,NA,"Rome, Byzantine Empire",Italy,NA
+82,John V,John,5,,0635-06-30,0685-07-23,0686-08-02,50.064,51.09,1.026,0680-06-30,45y,5.064,,NA,"Antiochia, Syria",Syria or Turkey,of Syrian or Greek ethnicity. 
+83,Conon,Conon,1,,0630-06-30,0686-10-21,0687-09-21,56.309,57.225,0.917,0683-06-30,53y,3.309,,NA,Thracia,"Turkey, Greece or Bulgaria",of Greek ethnicity. 
+84,Sergius I,Sergius,1,,0650-06-30,0687-12-15,0701-09-08,37.459,51.19,13.731,0683-06-30,33y,4.459,,NA,"Sicily or Antiochia, Syria","Italy or Syria, Turkey",Hellenized Syrian
+85,John VI,John,6,,0650-06-30,0701-10-30,0705-01-11,51.333,54.531,3.198,0700-06-30,50y,1.333,,NA,"Ephesus, Eastern Roman Empire",Turkey,of Greek ethnicity. The only pope who came from Asia Minor. 
+86,John VII,John,7,,0655-06-30,0705-03-01,0707-10-18,49.671,52.301,2.63,Unknown,NA,Unknown,,NA,Calabria,Italy,of Greek ethnicity. The second pope to bear the same name as his immediate predecessor. 
+87,Sisinnius,Sisinnius,1,,0650-06-30,0708-01-15,0708-02-04,57.542,57.595,0.053,0706-06-30,56y,1.542,,NA,"Syria, Rashidun Caliphate",Syria,Born as subject of the Rashidun Caliphate. Was Syrian.
+88,Constantine,Constantine,1,,0664-06-30,0708-03-25,0715-04-09,43.736,50.776,7.04,0707-06-30,43y,0.736,,NA,Syria,Syria,Last pope to visit Greece until John Paul II in 2001
+89,Gregory II,Gregory,2,,0669-06-30,0715-05-19,0731-02-11,45.887,61.615,15.728,Unknown,NA,Unknown,,NA,"Rome, Byzantine Empire",Italy,NA
+90,Gregory III,Gregory,3,,0669-06-30,0731-03-18,0741-11-28,61.717,72.411,10.694,0726-06-30,57y,4.717,,NA,"Syria, Umayyad Caliphate",Syria,Born as subject of the Umayyad Caliphate; the last pope from Syria. The third pope to come from a Muslim country. The third pope to bear the same name as his immediate predecessor. Last pope to have been born outside Europe until the election of Francis in 2013. 
+91,Zachary,Zachary,1,,0679-06-30,0741-12-03,0752-03-22,62.426,72.728,10.302,0732-04-12,52y 9m 13d,9.642,,NA,Calabria,Italy,of Greek ethnicity.
+92,Stephen II,Stephen,2,,0714-06-30,0752-03-26,0757-04-26,37.739,42.822,5.083,0749-06-30,35y,2.739,,NA,Rome,Italy,later the sovereign of the independent Papal States. Sometimes called Stephen III. The Donation of Pepin. Brother of Paul I. 
+93,Paul I,Paul,1,,0700-06-30,0757-05-29,0767-06-28,56.914,66.995,10.081,0749-06-30,49y,7.914,,NA,Rome,Italy,Brother of Stephen II.
+94,Stephen III,Stephen,3,,0723-06-30,0768-08-07,0772-01-24,45.104,48.567,3.463,0761-06-02,37y 11m 3d,7.18,,NA,Sicily,Italy,"of Greek ethnicity. A decree issued in the session of April 13, 769 of the Roman Council convoked by Pope Stephen III (IV) in the Lateran basilica mandated that all future popes had to be either deacon or presbyter cardinalis and that laymen could not vote in papal elections. The word cardinalis, then an adjective, appears for the first time in the Liber Pontificalis in the biography of this pope."
+95,Adrian I,Adrian,1,,0700-06-30,0772-02-01,0795-12-26,71.587,95.489,23.902,0769-06-30,69y,2.587,,NA,Rome,Italy,NA
+96,Leo III,Leo,3,,0750-06-30,0795-12-26,0816-06-12,45.489,65.951,20.462,Unknown,NA,Unknown,,NA,Rome,Italy,"He was included in the catalogue of saints in 1673 by Pope Clement X because of the presumed miracle of the restoration of his eyes and tongue, even though the sources say that it was only an attempt to remove them. His feast, celebrated on February 11 and on May 14 pro clero Romano, has been suppressed."
+97,Stephen IV,Stephen,4,,0770-06-30,0816-06-22,0817-01-24,45.978,46.567,0.589,0815-06-30,45y,0.978,,NA,"Rome, Papal States",Italy,NA
+98,Paschal I,Paschal,1,,0775-06-30,0817-01-25,0824-02-11,41.57,48.615,7.045,0796-06-30,21y,20.57,,NA,Rome,Italy,NA
+99,Eugene II,Eugene,2,,0780-06-30,0824-05-08,0827-08-27,43.856,47.158,3.302,0816-06-30,36y,7.856,,NA,Rome,Italy,NA
+100,Valentine,Valentine,1,,0780-06-30,0827-08-31,0827-10-10,47.169,47.279,0.109,0820-06-30,40y,7.169,,NA,Rome,Italy,NA
+101,Gregory IV,Gregory,4,,0790-06-30,0827-12-20,0844-01-25,37.473,53.57,16.097,0797-06-30,7y,30.473,,NA,Rome,Italy,NA
+102,Sergius II,Sergius,2,,0790-06-30,0844-01-25,0847-01-27,53.57,56.575,3.005,Unknown,NA,Unknown,,NA,Rome,Italy,NA
+103,Leo IV,Leo,4,,0790-06-30,0847-04-10,0855-07-17,56.779,65.048,8.269,0844-06-30,54y,2.779,,NA,Rome,Italy,NA
+104,Benedict III,Benedict,3,,0810-06-30,0855-09-29,0858-04-17,45.247,47.798,2.55,0853-06-30,43y,2.247,,NA,Rome,Italy,NA
+105,Nicholas I,Nicholas,1,,0800-06-30,0858-04-24,0867-11-13,57.817,67.37,9.553,0853-06-30,53y,4.817,,NA,Rome,Italy,NA
+106,Adrian II,Adrian,2,,0792-06-30,0867-12-14,0872-12-14,75.456,80.456,5,0842-06-30,50y,25.456,,NA,Rome,Italy,NA
+107,John VIII,John,8,,0820-06-30,0872-12-14,0882-12-16,52.456,62.462,10.005,0867-06-30,47y,5.456,,NA,Rome,Italy,First pope to be assassinated. 
+108,Marinus I,Marinus,1,,0830-06-30,0882-12-16,0884-05-15,52.462,53.876,1.414,0880-06-30,50y,2.462,,NA,"Gallese, Papal States",Italy,Erroneously also known as Martin II. 
+109,Adrian III,Adrian,3,,0830-06-30,0884-05-17,0885-07-08,53.881,55.023,1.142,Unknown,NA,Unknown,,NA,Rome,Italy,"Adrian I was possibly his ancestor. His cultus was confirmed on June 2, 1891. His feast, according to the Roman Martyrology, is celebrated on July 8."
+110,Stephen V,Stephen,5,,0840-06-30,0885-09-14,0891-09-04,45.206,51.179,5.973,0882-06-30,42y,3.206,,NA,Rome,Italy,NA
+111,Formosus,Formosus,1,,0805-06-30,0891-10-06,0896-04-04,86.268,90.762,4.494,0864-06-30,59y,27.268,,NA,"Ostia, Papal States",Italy,"In early 897 posthumously executed following the Cadaver Synod. His body was reburied with full Christian honours in 897. His body was exhumed and he was tried and excommunicated by Pope Stephen V (VI) in January 897, nine months after his death. Buried in a common grave and later thrown in the river Tiber. A hermit retrieved his body and reburied him. He was rehabilitated by Pope John IX in the Roman Synod of April 898. "
+112,Boniface VI,Boniface,6,,0806-06-30,0896-04-11,0896-04-26,89.781,89.822,0.041,Unknown,NA,Unknown,,NA,Rome,Italy,NA
+113,Stephen VI,Stephen,6,,0850-06-30,0896-05-22,0897-08-14,45.895,47.123,1.228,Unknown,NA,Unknown,,NA,Rome,Italy,Held the infamous Cadaver Synod. 
+114,Romanus,Romanus,1,,0850-06-30,0897-08-14,0897-11-01,47.123,47.337,0.214,0867-06-30,17y,30.123,,NA,"Gallese, Papal States",Italy,NA
+115,Theodore II,Theodore,2,,0840-06-30,0897-12-01,0897-12-20,57.421,57.473,0.052,Unknown,NA,Unknown,,NA,Rome,Italy,NA
+116,John IX,John,9,,0840-06-30,0898-01-18,0900-01-05,57.55,59.515,1.964,Unknown,NA,Unknown,,NA,Tivoli,Italy,NA
+117,Benedict IV,Benedict,4,,0840-06-30,0900-02-01,0903-07-30,59.587,63.083,3.496,NA,NA,NA,,NA,Rome,Italy,NA
+118,Leo V,Leo,5,,0845-06-30,0903-07-30,0903-12-01,58.083,58.421,0.337,NA,NA,NA,,NA,Ardea,Italy,Deposed and murdered. 
+119,Sergius III,Sergius,3,,0860-06-30,0904-01-29,0911-04-14,43.581,50.79,7.209,Unknown,NA,Unknown,,NA,Rome,Italy,"""Saeculum obscurum"" begins. The first pope to be depicted with the Papal Tiara. "
+120,Anastasius III,Anastasius,3,,0865-06-30,0911-04-14,0913-06-01,45.79,47.921,2.131,Unknown,NA,Unknown,,NA,Rome,Italy,NA
+121,Lando,Lando,1,,0865-06-30,0913-07-07,0914-02-05,48.02,48.598,0.578,Unknown,NA,Unknown,,NA,"Sabina, Papal States",Italy,Last to use a new and non-composed regnal name until Francis (2013-) 
+122,John X,John,10,,0860-06-30,0914-03-01,0928-05-28,53.671,67.911,14.241,0907-06-30,47y,6.671,,NA,"Tossignano, Papal States",Italy,NA
+123,Leo VI,Leo,6,,0880-06-30,0928-05-28,0928-12-01,47.911,48.421,0.509,Unknown,NA,Unknown,,NA,Rome,Italy,NA
+124,Stephen VII,Stephen,7,,0880-06-30,0929-02-03,0931-02-13,48.593,50.62,2.027,Unknown,NA,Unknown,,NA,Rome,Italy,NA
+125,John XI,John,11,,0910-06-30,0931-03-15,0935-12-01,20.709,25.421,4.712,Unknown,NA,Unknown,,NA,Rome,Italy,"Probably, according to the Liber Pontificalis and Liutprand of Cremona, the son of Pope Sergius III, and not of Alberic I of Spoleto, who was Marozia's husband. "
+126,Leo VII,Leo,7,,0885-06-30,0936-01-03,0939-07-13,50.509,54.037,3.527,Unknown,NA,Unknown,,NA,Rome,Italy,NA
+127,Stephen VIII,Stephen,8,,0900-06-30,0939-07-14,0942-10-30,39.04,42.333,3.294,Unknown,NA,Unknown,,NA,Rome,Italy,NA
+128,Marinus II,Marinus,2,,0900-06-30,0942-10-30,0946-05-01,42.333,45.837,3.504,Unknown,NA,Unknown,,NA,Rome,Italy,Erroneously also known as Martin III. 
+129,Agapetus II,Agapetus,2,,0905-06-30,0946-05-10,0955-11-08,40.862,50.356,9.495,Unknown,NA,Unknown,,NA,Rome,Italy,NA
+130,John XII,John,12,,0934-06-30,0955-12-16,0964-05-14,21.462,29.873,8.411,Unknown,NA,Unknown,,Octavian,Rome,Italy,"Third pope not to use his personal name (Octavian). Deposed in 963 by Emperor Otto invalidly; end of the ""Saeculum obscurum"". Possibly murdered in 964."
+131,Benedict V,Benedict,5,,0915-06-30,0964-05-22,0964-06-23,48.895,48.981,0.086,0961-06-30,46y,2.895,,NA,Rome,Italy,"Elected by the people of Rome, in opposition to Leo VIII who was appointed by Emperor Otto; he accepted his own deposition in 964 leaving Leo VIII as the sole pope. "
+132,Leo VIII,Leo,8,,0915-06-30,0964-06-23,0965-03-01,48.981,49.671,0.69,NA,NA,NA,,NA,Rome,Italy,His pontificate from 963 to 964 is considered illegitimate by today's Catholic Church
+133,John XIII,John,13,,0930-06-30,0965-10-01,0972-09-06,35.254,42.184,6.93,0964-06-30,34y,1.254,,NA,Rome,Italy,"Chronicled after his death as ""the Good"". "
+134,Benedict VI,Benedict,6,,0925-06-30,0973-01-19,0974-06-08,47.553,48.94,1.387,0972-06-30,47y,0.553,,NA,Rome,Italy,Deposed and murdered. 
+135,Benedict VII,Benedict,7,,0930-06-30,0974-10-01,0983-07-10,44.254,53.029,8.775,0972-06-30,42y,2.254,,NA,Rome,Italy,NA
+136,John XIV,John,14,,0940-06-30,0983-12-01,0984-08-20,43.421,44.139,0.719,0981-06-30,41y,2.421,,Pietro Canepanova,Pavia,Italy,Fourth pope not to use his personal name.
+137,John XV,John,15,,0950-06-30,0985-08-20,0996-04-01,35.139,45.754,10.615,Unknown,NA,Unknown,, ,Rome,Italy,The first pope to formally canonize a saint. 
+138,Gregory V,Gregory,5,,0972-06-30,0996-05-03,0999-02-18,23.843,26.634,2.791,0995-06-30,23y,0.843,,Bruno of Carinthia,"Germany, Holy Roman Empire",Austria,"the first official German pope and fifth not to use his personal name (Bruno). Henceforth, this decision became tradition among future popes. "
+139,Sylvester II,Sylvester,2,,0940-06-30,0999-04-02,1003-05-12,58.757,62.867,4.111,0998-06-30,58y,0.757,,Gerbert d'Aurillac,Belliac or Auvergne in France,France,the first French (Occitan) pope. He is said to be the first in Christian Europe (outside of Al-Andalus) to introduce the decimal numeral system using the Hindu-Arabic numeral system. 
+140,John XVII,John,17,,0955-06-30,1003-05-16,1003-11-06,47.878,48.351,0.473,0996-06-30,41y,6.878,,Giovanni Sicco ,"Rome, Papal States",Italy,NA
+141,John XVIII,John,18,,0965-06-30,1003-12-25,1009-07-18,38.486,44.05,5.564,1000-06-30,35y,3.486,,Giovanni Fasano,"Rapagnano, Papal States",Italy,First pope born after the Papal States became a state of the Holy Roman Empire in 962.
+142,Sergius IV,Sergius,4,,0970-06-30,1009-07-31,1012-05-12,39.086,41.867,2.781,1004-06-30,34y,5.086,,Pietro Martino Boccadiporco,"Rome, Papal States, Holy Roman Empire",Italy,NA
+143,Benedict VIII,Benedict,8,,0980-06-30,1012-05-18,1024-04-09,31.884,43.776,11.892,1001-06-30,21y,10.884,,"Theophylactus II, Conti di Tusculum","Rome, Papal States, Holy Roman Empire",Italy,Brother of John XIX
+144,John XIX,John,19,,0975-06-30,1024-05-14,1032-10-06,48.873,57.268,8.395,Unknown,NA,Unknown,,"Romanus, Conti di Tusculum","Rome, Papal States, Holy Roman Empire",Italy,Brother of Benedict VIII. 
+145,Benedict IX,Benedict,9,,1012-06-30,1032-10-21,1044-12-31,20.309,32.503,12.194,Unknown,NA,Unknown,,"Theophylactus III, Conti di Tusculum","Rome, Papal States, Holy Roman Empire",Italy,first term. 
+146,Sylvester III,Sylvester,3,,1000-06-30,1045-01-13,1045-03-10,44.537,44.695,0.158,1044-06-30,44y,0.537,,Giovanni dei Crescenzi Ottaviani ,"Rome, Papal States, Holy Roman Empire",Italy,Validity of election questioned; considered antipope; deposed at the Council of Sutri. 
+147,Benedict IX,Benedict,9,,1012-06-30,1045-03-10,1045-05-01,32.695,32.837,0.142,Unknown,NA,Unknown,,"Theophylactus III, Conti di Tusculum","Rome, Papal States, Holy Roman Empire",Italy,Second term; deposed at the Council of Sutri.
+148,Gregory VI,Gregory,6,,1000-06-30,1045-05-05,1046-12-20,44.848,46.473,1.624,1012-06-30,12y,32.848,,Giovanni Graziano Pierleoni,"Rome, Papal States, Holy Roman Empire",Italy,Deposed at the Council of Sutri. 
+149,Clement II,Clement,2,,0967-06-30,1046-12-24,1047-10-09,79.484,80.276,0.792,0996-06-30,29y,50.484,,Suidger von Morsleben-Hornburg ,"Hornburg, Duchy of Saxony, Holy Roman Empire",Germany,NA
+150,Benedict IX,Benedict,9,,1012-06-30,1047-11-08,1048-07-17,35.356,36.048,0.691,Unknown,NA,Unknown,,"Theophylactus III, Conti di Tusculum","Rome, Papal States, Holy Roman Empire",Italy,Third term; deposed and excommunicated.
+151,Damasus II,Damasus,2,,1000-06-30,1048-07-17,1048-08-09,48.048,48.109,0.061,NA,NA,NA,,Poppo de Curagnoni ,"Pildenau, Duchy of Bavaria, Holy Roman Empire",Germany,NA
+152,Leo IX,Leo,9,1082-06-30,1002-07-21,1049-02-12,1054-04-19,46.559,51.745,5.186,Unknown,NA,Unknown,1082-06-30,Bruno von Egisheim-Dagsburg,"Eguisheim, Swabia, Holy Roman Empire",France,NA
+153,Victor II,Victor,2,,1018-06-30,1055-04-13,1057-07-28,36.787,39.078,2.291,Unknown,NA,Unknown,,Gebhard II von Calw-Dollnstein-Hirschberg,"Kingdom of Germany, Holy Roman Empire",Germany,NA
+154,Stephen IX,Stephen,9,,1020-06-30,1057-08-02,1058-03-29,37.09,37.747,0.657,1049-06-30,29y,8.09,,Frederic de Lorraine,"Duchy of Lorraine, Holy Roman Empire",France,NA
+155,Nicholas II,Nicholas,2,,0980-06-30,1058-12-06,1061-07-27,78.434,81.075,2.641,NA,NA,NA,,Gerald de Bourgogne,"Chateau de Chevron, Kingdom of Arles",France,NA
+156,Alexander II,Alexander,2,,1018-06-30,1061-09-30,1073-04-21,43.25,54.809,11.559,NA,NA,NA,,Anselmo da Baggio,"Milan, Italy, Holy Roman Empire",Italy,NA
+157,Gregory VII,Gregory,7,1728-05-24,1015-06-30,1073-04-22,1085-05-25,57.811,69.903,12.092,1059-06-30,44y,13.811,1728-05-24,Ildebrando Aldobrandeschi di Soana,"Sovana, Italy, Holy Roman Empire",Italy,NA
+158,Victor III,Victor,3,1887-07-23,1026-06-30,1086-05-24,1087-09-16,59.9,61.212,1.311,1059-06-30,33y,26.9,1887-07-23,"Dauferio Epifani Del Zotto (Desiderio, Desiderius, Dauferius )","Benevento, Duchy of Benevento",Italy,NA
+159,Urban II,Urban,2,1881-07-14,1042-06-30,1088-03-12,1099-07-29,45.701,57.081,11.38,1073-06-30,31y,14.701,1881-07-14,Odon de Lagery,"Lagery, County of Champagne, France",France,NA
+160,Paschal II,Paschal,2,,1050-06-30,1099-08-13,1118-01-21,49.12,67.559,18.439,1073-06-30,23y,26.12,,Rainero Ranieri,"Bleda, Papal States, Holy Roman Empire",Italy,NA
+161,Gelasius II,Gelasius,2,,1061-06-30,1118-01-24,1119-01-29,56.567,57.581,1.014,1088-06-30,27y,29.567,,Giovanni Caetani,"Gaeta, Principality of Capua",Italy,NA
+162,Callixtus II,Callixtus,2,,1060-06-30,1119-02-02,1124-12-13,58.59,64.453,5.864,Unknown,NA,Unknown,,"Guido, Comte de Bourgogne","Quingey, County of Burgundy, Holy Roman Empire",France,of French ethnicity. 
+163,Honorius II,Honorius,2,,1060-02-09,1124-12-21,1130-02-13,64.866,70.011,5.145,1099-06-30,39y 4m 21d,25.475,,Lamberto Scannabecchi da Fiagnano,"Fiagnano, Papal States, Holy Roman Empire",Italy,NA
+164,Innocent II,Innocent,2,,1082-06-30,1130-02-14,1143-09-24,47.623,61.234,13.611,1088-06-30,6y,41.623,,Gregorio Papareschi,"Rome, Papal States, Holy Roman Empire",Italy,NA
+165,Celestine II,Celestine,2,,1085-06-30,1143-09-26,1144-03-08,58.239,58.69,0.451,1127-06-30,42y,16.239,,Guido Guelfuccio de Castello ,"Citta di Castello, Papal States, Holy Roman Empire",Italy,NA
+166,Lucius II,Lucius,2,,1079-06-30,1144-03-12,1145-02-15,64.701,65.626,0.925,1122-12-15,43y 5m 15d,21.242,,Gherardo Caccianemici dall'Orso,"Bologna, Papal States, Holy Roman Empire",Italy,NA
+167,Eugene III,Eugene,3,1872-12-28,1080-06-30,1145-02-15,1153-07-08,64.626,73.023,8.398,NA,NA,NA,1872-12-28,Pietro dei Paganelli di Montemagno,"Pisa, Republic of Pisa, Holy Roman Empire",Italy,NA
+168,Anastasius IV,Anastasius,4,,1073-06-30,1153-07-12,1154-12-03,80.034,81.426,1.392,1127-06-30,54y,26.034,,Corrado Demetri della Suburra,"Rome, Papal States, Holy Roman Empire",Italy,NA
+169,Adrian IV,Adrian,4,,1100-06-30,1154-12-04,1159-09-01,54.429,59.171,4.742,1146-06-30,46y,8.429,,Nicholas Breakspear,"Abbots Langley, Hertfordshire, Kingdom of England",United Kingdom,The only English (Anglo-Saxon) pope
+170,Alexander III,Alexander,3,,1100-06-30,1159-09-07,1181-08-30,59.187,81.167,21.98,1150-06-30,50y,9.187,,Rolando Bandinelli ,"Siena, Italy, Holy Roman Empire",Italy,NA
+171,Lucius III,Lucius,3,,1097-06-30,1181-09-01,1185-11-25,84.171,88.403,4.232,1141-06-30,44y,40.171,,Ubaldo Allucignoli,"Lucca, Italy, Holy Roman Empire",Italy,NA
+172,Urban III,Urban,3,,1120-06-30,1185-11-25,1187-10-20,65.403,67.306,1.903,1173-09-15,53y 2m 16d,12.194,,Uberto Crivelli,"Cuggiono, Italy, Holy Roman Empire",Italy,NA
+173,Gregory VIII,Gregory,8,,1100-06-30,1187-10-21,1187-12-17,87.309,87.464,0.156,1155-12-15,55y 5m 15d,31.85,,Alberto di Morra,"Benevento, Papal States, Holy Roman Empire",Italy,NA
+174,Clement III,Clement,3,,1130-06-30,1187-12-19,1191-03-20,57.47,60.723,3.253,1179-03-15,48y 8m 15d,8.761,,Paolo Scolari,"Rome, Papal States, Holy Roman Empire",Italy,NA
+175,Celestine III,Celestine,3,,1106-06-30,1191-03-30,1198-01-08,84.75,91.523,6.773,1144-02-09,37y 7m 10d,47.141,,Giacinto Bobone Orsini,"Rome, Papal States, Holy Roman Empire",Italy,NA
+176,Innocent III,Innocent,3,,1161-06-30,1198-01-08,1216-07-16,36.523,55.045,18.522,1190-09-15,29y 2m 16d,7.314,,Lothario dei Conti di Segni,"Gavignano, Papal States, Holy Roman Empire",Italy,NA
+177,Honorius III,Honorius,3,,1148-06-30,1216-07-18,1227-03-18,68.05,78.717,10.667,1193-02-20,44y 7m 21d,23.411,,Cencio Savelli,"Rome, Papal States, Holy Roman Empire",Italy,NA
+178,Gregory IX,Gregory,9,,1145-06-30,1227-03-19,1241-08-22,81.72,96.145,14.425,1198-12-15,53y 5m 15d,28.261,,Ugolino dei Conti di Segni,"Anagni, Papal States, Holy Roman Empire",Italy,NA
+179,Celestine IV,Celestine,4,,1180-06-30,1241-10-25,1241-11-10,61.32,61.362,0.042,1227-09-18,47y 2m 19d,14.103,,Goffredo Castiglioni,"Milan, Italy, Holy Roman Empire",Italy,Died before coronation. 
+180,Innocent IV,Innocent,4,,1195-06-30,1243-06-25,1254-12-07,47.986,59.437,11.451,1227-09-18,32y 2m 19d,15.769,,Sinibaldo Fieschi,"Genoa, Republic of Genoa, Holy Roman Empire",Italy,NA
+181,Alexander IV,Alexander,4,,1199-06-30,1254-12-12,1261-05-25,55.451,61.903,6.452,1227-09-18,28y 2m 19d,27.234,,Rinaldo dei Conti di Jenne,"Jenne, Papal States, Holy Roman Empire",Italy,First pope born after the Papal States ceased to be a state of the Holy Roman Empire.
+182,Urban IV,Urban,4,,1195-06-30,1261-08-29,1264-10-02,66.164,69.257,3.093,NA,NA,NA,,Jacques Pantaleon,"Troyes, County of Champagne, France",France,NA
+183,Clement IV,Clement,4,,1190-11-23,1265-02-05,1268-11-29,74.201,78.016,3.816,1261-12-17,71y 24d,3.134,,Gui Faucoi,"Saint-Gilles, Languedoc, France",France,NA
+184,Gregory X,Gregory,10,1713-07-08,1210-06-30,1271-09-01,1276-01-10,61.171,65.529,4.358,NA,NA,NA,1713-07-08,Tebaldo Visconti,"Piacenza, Italy, Holy Roman Empire",Italy,NA
+185,Innocent V,Innocent,5,1898-03-09,1224-06-30,1276-01-21,1276-06-22,51.559,51.978,0.419,1273-06-03,48y 11m 4d,2.633,1898-03-09,Pierre de Tarentaise,"County of Savoy, Holy Roman Empire",Italy,of French ethnicity. 
+186,Adrian V,Adrian,5,,1216-06-30,1276-07-11,1276-08-18,60.031,60.134,0.103,1251-12-15,35y 5m 15d,24.572,,Ottobuono Fieschi,"Genoa, Republic of Genoa, Holy Roman Empire",Italy,NA
+187,John XXI,John,21,,1215-06-30,1276-09-08,1277-05-20,61.19,61.889,0.699,1273-06-03,57y 11m 4d,3.264,,Pedro Julião (a.k.a. Petrus Hispanus and Pedro Hispano) ,"Lisbon, Portugal",Portugal,"Due to a confusion over the numbering of popes named John in the 13th century, the ordinal XX was skipped. "
+188,Nicholas III,Nicholas,3,,1216-06-30,1277-11-25,1280-08-22,61.403,64.145,2.742,1244-03-28,27y 8m 28d,33.659,,Giovanni Gaetano Orsini,"Rome, Papal States, Holy Roman Empire",Italy,NA
+189,Martin IV,Martin,4,,1210-06-30,1281-02-22,1285-03-28,70.645,74.745,4.1,1261-12-17,51y 5m 17d,19.18,,Simon de Brion,"Meinpicien, Touraine, France",France,NA
+190,Honorius IV,Honorius,4,,1210-06-30,1285-04-02,1287-04-03,74.757,76.759,2.003,1261-12-17,51y 5m 17d,23.292,,Giacomo Savelli,"Rome, Papal States, Holy Roman Empire",Italy,NA
+191,Nicholas IV,Nicholas,4,,1227-09-30,1288-02-22,1292-04-04,60.395,64.512,4.117,1278-03-12,50y 5m 12d,9.944,,Girolamo Masci,"Lisciano, Papal States, Holy Roman Empire",Italy,NA
+192,Celestine V,Celestine,5,1313-05-05,1215-06-30,1294-07-05,1294-12-13,79.015,79.453,0.439,NA,NA,NA,1313-05-05,Pietro da Morrone or Pietro Angelerio,"Sant' Angelo Limosano, Kingdom of Sicily",Italy,Resigned from office and rumoured to have been murdered in prison by Boniface VIII. 
+193,Boniface VIII,Boniface,8,,1230-06-30,1294-12-24,1303-10-11,64.484,73.281,8.798,1281-04-12,50y 9m 13d,13.7,,Benedetto Caetani,"Anagni, Papal States, Holy Roman Empire",Italy,NA
+194,Benedict XI,Benedict,11,1736-04-24,1240-06-30,1303-10-22,1304-07-07,63.311,64.02,0.709,1298-12-04,58y 5m 4d,4.883,1736-04-24,Niccolo Boccasini,"Treviso, Italy, Holy Roman Empire",Italy,NA
+195,Clement V,Clement,5,,1264-06-30,1305-06-05,1314-04-20,40.932,49.806,8.874,NA,NA,NA,,Raymond Bertrand de Gouth ,"Villandraut, Gascony, France",France,NA
+196,John XXII,John,22,,1244-06-30,1316-08-07,1334-12-04,72.104,90.429,18.325,1312-12-23,68y 5m 23d,3.623,,Jacques d'Euse; Jacques Duèse,"Cahors, Quercy, France",France,NA
+197,Benedict XII,Benedict,12,,1280-06-30,1334-12-20,1342-04-25,54.473,61.82,7.347,1327-12-18,47y 5m 18d,7.005,,Jacques Fournier,"Saverdun, County of Foix, France",France,NA
+198,Clement VI,Clement,6,,1291-06-30,1342-05-07,1352-12-06,50.854,61.434,10.581,1338-12-18,47y 5m 18d,3.387,,Pierre Roger,"Maumont, Limousin, France",France,NA
+199,Innocent VI,Innocent,6,,1282-06-30,1352-12-18,1362-09-12,70.467,80.201,9.734,1342-09-20,60y 2m 21d,10.245,,Etienne Aubert,"Les Monts, Limousin, France",France,NA
+200,Urban V,Urban,5,1870-03-10,1309-06-30,1362-09-28,1370-12-19,53.245,61.47,8.225,NA,NA,NA,1870-03-10,Guillaume (de) Grimoard,"Grizac, Languedoc, France",France,NA
+201,Gregory XI,Gregory,11,,1329-06-30,1370-12-30,1378-03-27,41.5,48.742,7.242,1348-05-29,18y 10m 29d,22.586,,Pierre Roger de Beaufort,"Maumont, Limousin, France ",France,The last French pope. 
+202,Urban VI,Urban,6,,1318-06-30,1378-04-08,1389-10-15,59.773,71.292,11.519,NA,NA,NA,,Bartolomeo Prignano,"Naples, Kingdom of Naples",Italy,Last pontiff to be elected outside the College of Cardinals. 
+203,Boniface IX,Boniface,9,,1348-06-30,1389-11-02,1404-10-01,41.34,56.254,14.914,1381-12-21,33y 5m 21d,7.865,,Pietro Tomacelli Cybo,"Naples, Kingdom of Naples",Italy,NA
+204,Innocent VII,Innocent,7,,1336-06-30,1404-10-17,1406-11-06,68.298,70.351,2.053,1389-12-18,53y 5m 18d,14.831,,Cosimo Gentile Migliorati,"Sulmona, Kingdom of Naples",Italy,NA
+205,Gregory XII,Gregory,12,,1327-06-30,1406-11-30,1415-07-04,79.417,88.012,8.595,1405-06-12,77y 11m 13d,1.466,,Angelo Correr,"Venice, Republic of Venice",Italy,Abdicated. 
+206,Martin V,Martin,5,,1369-06-30,1417-11-11,1431-02-20,48.365,61.639,13.275,1405-06-12,35y 11m 13d,12.414,,Oddone Colonna,"Genazzano, Papal States",Italy,NA
+207,Eugene IV,Eugene,4,,1383-06-30,1431-03-03,1447-02-23,47.676,63.647,15.971,1408-05-09,24y 10m 9d,22.817,,Gabriele Condulmer,"Venice, Republic of Venice",Italy,Nephew of Gregory XII. 
+208,Nicholas V,Nicholas,5,,1397-11-13,1447-03-06,1455-03-24,49.314,57.363,8.049,1446-12-16,49y 1m 3d,0.223,,Tommaso Parentucelli,"Sarzana, Republic of Genoa",Italy,NA
+209,Callixtus III,Callixtus,3,,1378-12-31,1455-04-08,1458-08-06,76.27,79.598,3.328,1444-05-02,65y 4m 2d,10.933,,Alfonso de Borja,"Xativa, Kingdom of Valencia, Crown of Aragon",Spain,The first Spanish (Valencian) pope.
+210,Pius II,Pius,2,,1405-10-18,1458-08-19,1464-08-15,52.836,58.825,5.989,1456-12-17,51y 1m 29d,1.672,,Enea Silvio Piccolomini,"Corsignano, Republic of Siena",Italy,NA
+211,Paul II,Paul,2,,1417-02-23,1464-08-30,1471-07-26,47.519,54.425,6.906,1440-07-01,23y 4m 8d,24.163,,Pietro Barbo,"Venice, Republic of Venice",Italy, The nephew of Eugene IV.
+212,Sixtus IV,Sixtus,4,,1414-07-21,1471-08-09,1484-08-12,57.05,70.059,13.008,1467-09-18,53y 1m 28d,3.892,,Francesco della Rovere,"Celle Ligure, Republic of Genoa",Italy,NA
+213,Innocent VIII,Innocent,8,,1432-06-30,1484-08-29,1492-07-25,52.164,60.07,7.906,1473-05-07,40y 10m 7d,11.31,,Giovanni Battista Cybo,"Genoa, Republic of Genoa",Italy,NA
+214,Alexander VI,Alexander,6,,1431-01-01,1492-08-11,1503-08-18,61.611,72.63,11.019,1456-09-17,25y 8m 16d,35.9,,Rodrigo de Lanzol-Borgia,"Xativa, Kingdom of Valencia, Crown of Aragon",Spain,"Nephew of Callixtus III, second Spanish pope"
+215,Pius III,Pius,3,,1439-05-29,1503-09-22,1503-10-18,64.314,64.387,0.072,1460-03-05,20y 9m 5d,43.547,,Francesco Todeschini Piccolomini,"Siena, Republic of Siena",Italy,Nephew of Pius II. 
+216,Julius II,Julius,2,,1443-12-05,1503-10-31,1513-02-21,59.905,69.21,9.306,1471-12-16,28y 11d,31.874,,Giuliano della Rovere,"Albisola, Republic of Genoa",Italy,Nephew of Sixtus IV
+217,Leo X,Leo,10,,1475-12-11,1513-03-09,1521-12-01,37.244,45.973,8.728,1489-03-09,13y 2m 26d,24,,Giovanni di Lorenzo de' Medici,"Florence, Republic of Florence",Italy,The last pope to not have been in priestly orders at the time of his election to the papacy. 
+218,Adrian VI,Adrian,6,,1459-03-02,1522-01-09,1523-09-14,62.852,64.533,1.68,1517-07-01,58y 3m 29d,4.522,,Adriaan Floriszoon Boeyens,"Utrecht, Bishopric of Utrecht, Holy Roman Empire (presently The Netherlands",Netherlands, The only Dutch pope; last non-Italian to be elected pope until John Paul II in 1978.
+219,Clement VII,Clement,7,,1478-05-26,1523-11-26,1534-09-25,45.5,56.331,10.831,1513-09-23,35y 3m 28d,10.175,,Giulio di Giuliano de' Medici,"Florence, Republic of Florence",Italy,Cousin of Leo X. 
+220,Paul III,Paul,3,,1468-02-29,1534-10-13,1549-11-10,66.623,81.698,15.075,1493-09-20,25y 6m 22d,41.064,,Alessandro Farnese,"Canino, Lazio, Papal States",Italy,NA
+221,Julius III,Julius,3,,1487-09-10,1550-02-07,1555-03-29,62.408,67.552,5.144,1536-12-22,49y 3m 12d,13.126,,Giovanni Maria Ciocchi del Monte,"Rome, Papal States",Italy,NA
+222,Marcellus II,Marcellus,2,,1501-05-06,1555-04-09,1555-05-01,53.925,53.986,0.061,1539-12-19,38y 7m 13d,15.306,,Marcello Cervini degli Spannochi,"Montefano, Marche, Papal States",Italy,The last to use his birth name as the regnal name.
+223,Paul IV,Paul,4,,1476-06-28,1555-05-23,1559-08-18,78.903,83.139,4.236,1536-12-22,60y 5m 24d,18.419,,Giovanni Pietro Carafa,"Capriglia Irpina, Campania, Kingdom of Naples",Italy,NA
+224,Pius IV,Pius,4,,1499-03-31,1559-12-26,1565-12-09,60.736,66.69,5.953,1549-04-08,50y 8d,10.716,,Giovanni Angelo Medici,"Milan, Duchy of Milan",Italy,NA
+225,Pius V,Pius,5,1712-05-22,1504-01-17,1566-01-07,1572-05-01,61.973,68.29,6.317,1557-03-15,53y 1m 26d,8.811,1712-05-22,Antonio Ghislieri,"Bosco, Duchy of Milan",Italy,NA
+226,Gregory XIII,Gregory,13,,1502-01-07,1572-05-13,1585-04-10,70.35,83.258,12.908,1565-03-12,63y 2m 5d,7.169,,Ugo Boncompagni,"Bologna, Papal States",Italy,NA
+227,Sixtus V,Sixtus,5,,1521-12-13,1585-04-24,1590-08-27,63.363,68.705,5.342,1570-05-17,48y 5m 4d,14.936,,Felice Peretti di Montalto,"Grottammare, Marche, Papal States",Italy,NA
+228,Urban VII,Urban,7,,1521-08-04,1590-09-15,1590-09-27,69.113,69.146,0.033,1583-12-12,62y 4m 8d,6.758,,Giovanni Battista Castagna,"Rome, Papal States",Italy,"Shortest-reigning pope; died before coronation. Set the first known worldwide smoking ban, banning smoking in and near all churches. "
+229,Gregory XIV,Gregory,14,,1535-02-11,1590-12-05,1591-10-16,55.817,56.68,0.863,1583-12-12,48y 10m 1d,6.981,,Niccolo Sfondrati,"Somma Lombardo, Duchy of Milan",Italy,NA
+230,Innocent IX,Innocent,9,,1519-07-20,1591-10-29,1591-12-30,72.275,72.444,0.169,1583-12-12,64y 4m 22d,7.88,,Giovanni Antonio Facchinetti,"Bologna, Papal States",Italy,NA
+231,Clement VIII,Clement,8,,1536-02-24,1592-01-30,1605-03-03,55.933,69.026,13.093,1585-12-18,49y 9m 24d,6.116,,Ippolito Aldobrandini,"Fano, Marche, Papal States",Italy,NA
+232,Leo XI,Leo,11,,1535-06-02,1605-04-01,1605-04-27,69.831,69.902,0.071,1583-12-12,48y 6m 10d,21.303,,Alessandro Ottaviano de Medici,"Florence, Duchy of Florence",Italy,"The great-nephew of Leo X. Called ""Papa Lampo"" (Lightning Pope) for his brief pontificate. "
+233,Paul V,Paul,5,,1550-09-17,1605-05-16,1621-01-28,54.664,70.363,15.699,1596-06-05,45y 8m 19d,8.947,,Camillo Borghese,"Rome, Papal States",Italy,NA
+234,Gregory XV,Gregory,15,,1554-01-09,1621-02-09,1623-07-08,67.083,69.497,2.414,1616-09-19,62y 8m 10d,4.389,,Alessandro Ludovisi,"Bologna, Papal States",Italy,NA
+235,Urban VIII,Urban,8,,1568-04-05,1623-08-06,1644-07-29,55.336,76.316,20.98,1606-09-11,38y 5m 6d,16.903,,Maffeo Barberini,"Florence, Grand Duchy of Tuscany",Italy,The last pope to expand papal territory by force of arms. Issued a 1624 bill that made the use of tobacco in holy places punishable by excommunication. 
+236,Innocent X,Innocent,10,,1574-05-06,1644-09-15,1655-01-07,70.358,80.669,10.311,1627-08-30,53y 3m 24d,17.042,,Giovanni Battista Pamphilj,"Rome, Papal States",Italy,The great-great-great-grandson of Alexander VI.
+237,Alexander VII,Alexander,7,,1599-02-13,1655-04-07,1667-05-22,56.15,68.275,12.124,1652-02-19,53y 6d,3.134,,Fabio Chigi,"Siena, Grand Duchy of Tuscany",Italy,Great-nephew of Paul V. 
+238,Clement IX,Clement,9,,1600-01-28,1667-06-20,1669-12-09,67.395,69.865,2.47,1657-04-09,57y 2m 12d,10.197,,Giulio Rospigliosi,"Pistoia, Grand Duchy of Tuscany",Italy,NA
+239,Clement X,Clement,10,,1590-07-13,1670-04-29,1676-07-22,79.794,86.025,6.231,1669-11-29,79y 4m 16d,0.417,,Emilio Bonaventura Altieri,"Rome, Papal States",Italy,Canonized the first saint from the Americas: St. Rose of Lima (1671)
+240,Innocent XI,Innocent,11,1956-10-07,1611-05-16,1676-09-21,1689-08-12,65.347,78.239,12.892,1645-03-06,33y 9m 18d,31.541,1956-10-07,Benedetto Odescalchi,"Como, Duchy of Milan",Italy,NA
+241,Alexander VIII,Alexander,8,,1610-04-22,1689-10-06,1691-02-01,79.456,80.776,1.32,1652-02-19,41y 9m 28d,37.631,,Pietro Vito Ottoboni,"Venice, Republic of Venice",Italy,NA
+242,Innocent XII,Innocent,12,,1615-03-13,1691-07-12,1700-09-27,76.331,85.538,9.208,1681-09-01,66y 5m 19d,9.863,,Antonio Pignatelli,"Spinazzola, Kingdom of Naples",Italy,NA
+243,Clement XI,Clement,11,,1649-07-23,1700-11-23,1721-03-19,51.333,71.656,20.322,1690-02-13,40y 6m 21d,10.777,,Giovanni Francesco Albani,"Urbino, Marche, Papal States",Italy,NA
+244,Innocent XIII,Innocent,13,,1655-05-13,1721-05-08,1724-03-07,65.986,68.817,2.831,1706-06-07,51y 25d,14.919,,Michelangelo dei Conti,"Poli, Lazio, Papal States",Italy,NA
+245,Benedict XIII,Benedict,13,2017-02-24,1649-02-02,1724-05-29,1730-02-21,75.324,81.052,5.728,1672-02-22,23y 20d,52.269,2017-02-24,Pietro Francesco Orsini,"Gravina in Puglia, Kingdom of Naples",Italy,third and last member of the Orsini family to be pope. Originally called Benedict XIV due to the antipope but reverted to XIII. Repealed the worldwide tobacco smoking ban set by Urban VII and Urban VIII.
+246,Clement XII,Clement,12,,1652-04-07,1730-07-12,1740-02-06,78.264,87.831,9.567,1706-05-17,54y 1m 10d,24.153,,Lorenzo Corsini,"Florence, Grand Duchy of Tuscany",Italy,NA
+247,Benedict XIV,Benedict,14,,1675-03-31,1740-08-17,1758-05-03,65.378,83.09,17.712,1726-12-09,51y 8m 9d,13.689,,Prospero Lorenzo Lambertini,"Bologna, Papal States",Italy,NA
+248,Clement XIII,Clement,13,,1693-03-07,1758-07-06,1769-02-02,65.331,75.903,10.572,1737-12-20,44y 9m 13d,20.545,,Carlo della Torre di Rezzonico,"Venice, Republic of Venice",Italy,NA
+249,Clement XIV,Clement,14,,1705-10-31,1769-05-19,1774-09-22,63.55,68.892,5.342,1759-09-24,53y 10m 24d,9.653,,Giovanni Vincenzo Antonio Ganganelli,"Sant' Arcangelo di Romagna, Papal States",Italy,NA
+250,Pius VI,Pius,6,,1717-12-25,1775-02-15,1799-08-29,57.139,81.678,24.538,1773-04-26,55y 4m 1d,1.803,,Count Giovanni Angelo Braschi,"Cesena, Papal States",Italy,The last pope to be a patron of Renaissance art. 
+251,Pius VII,Pius,7,2007-08-15,1742-08-14,1800-03-14,1823-08-20,57.583,81.016,23.433,1785-02-14,42y 6m,15.083,2007-08-15,Barnaba Niccolò Maria Luigi Chiaramonti,"Cesena, Papal States",Italy,NA
+252,Leo XII,Leo,12,,1760-08-22,1823-09-28,1829-02-10,63.1,68.467,5.367,1816-03-08,55y 6m 15d,7.555,,Annibale Francesco Clemente Melchiore Girolamo Nicola Sermattei della Genga,"Genga or Spoleto, Papal States",Italy,NA
+253,Pius VIII,Pius,8,,1761-11-20,1829-03-31,1830-11-30,67.363,69.027,1.664,1816-03-08,54y 3m 17d,13.063,,Francesco Saverio Castiglioni,"Cingoli, Marche, Papal States",Italy,NA
+254,Gregory XVI,Gregory,16,,1765-09-18,1831-02-02,1846-06-01,65.373,80.703,15.331,1825-03-21,59y 6m 3d,5.865,,Bartolomeo Alberto Cappellari,"Belluno, Republic of Venice",Italy,last non-bishop to be elected to the papacy.
+255,Pius IX,Pius,9,2000-09-03,1792-05-13,1846-06-16,1878-02-07,54.092,85.734,31.642,1839-12-23,47y 7m 10d,6.481,2000-09-03,Giovanni Maria Mastai-Ferretti,"Senigallia, Marche, Papal States",Italy,Longest-serving pope since Peter (c. AD 30–64). 
+256,Leo XIII,Leo,13,,1810-03-02,1878-02-20,1903-07-20,67.966,93.383,25.417,1853-12-19,43y 9m 17d,24.169,,Gioacchino Vincenzo Raffaele Luigi Pecci,"Carpineto Romano, Rome departement, French Empire (now Italy)",Italy,"Born as a French citizen, of Italian ethnicity, later became a subject of the Papal States and finally an Italian citizen.Had the third-longest reign after Pius IX, and John Paul II. first pope to fully embrace the concept of Mary as mediatrix. First Pope to be filmed by a motion picture camera and the first pope with voice recorded."
+257,Pius X,Pius,10,1954-05-29,1835-06-02,1903-08-04,1914-08-20,68.172,79.216,11.044,1893-06-12,58y 10d,10.145,1954-05-29,Giuseppe Melchiorre Sarto,"Riese, Lombardy-Venetia, Austrian Empire",Italy,NA
+258,Benedict XV,Benedict,15,,1854-11-21,1914-09-03,1922-01-22,59.784,67.169,7.385,1914-03-25,59y 4m 4d,0.44,,Giacomo Della Chiesa,"Genoa, Kingdom of Sardinia",Italy,NA
+259,Pius XI,Pius,11,,1857-05-31,1922-02-06,1939-02-10,64.682,81.692,17.011,1921-06-13,64y 13d,0.647,,Achille Ambrogio Damiano Ratti,"Desio, Lombardy-Venetia, Austrian Empire",Italy,NA
+260,Pius XII,Pius,12,2009-12-19,1876-03-02,1939-03-02,1958-10-09,63,82.603,19.603,1929-12-16,53y 9m 14d,9.212,2009-12-19,Eugenio Maria Giuseppe Giovanni Pacelli,"Rome, Italy",Italy,Eliminated the Italian majority of cardinals. 
+261,John XXIII,John,23,2014-04-27,1881-11-25,1958-10-28,1963-06-03,76.925,81.523,4.598,1953-01-12,71y 1m 18d,5.794,2014-04-27,Angelo Giuseppe Roncalli,"Sotto il Monte, Bergamo, Italy",Italy,NA
+262,Paul VI,Paul,6,2018-10-14,1897-09-26,1963-06-21,1978-08-06,65.736,80.862,15.126,1958-12-15,61y 2m 19d,4.516,2018-10-14,Giovanni Battista Enrico Antonio Maria Montini,"Concesio, Brescia, Italy",Italy,Last pope to be crowned. First pope since 1809 to travel outside Italy. 
+263,John Paul I,John Paul,1,2022-09-04,1912-10-17,1978-08-26,1978-09-28,65.858,65.947,0.089,1973-03-05,60y 4m 16d,5.474,2022-09-04,Albino Luciani,"Forno di Canale, Veneto, Italy",Italy,Abolished the coronation and opted for the papal inauguration. First pope to use 'the First' in papal name; first with two names for two immediate predecessors. Last pope to use the sedia gestatoria. 
+264,John Paul II,John Paul,2,2014-04-27,1920-05-18,1978-10-16,2005-04-02,58.411,84.873,26.462,1967-06-26,47y 1m 8d,11.306,2014-04-27,Karol Jozef Wojtyla,"Wadowice, Poland",Poland,"first pope of Slavic origin. First non-Italian pope since Adrian VI (1522–1523). Travelled extensively, visiting 129 countries during his pontificate. Second-longest reign after Pius IX. Canonized more saints than all his predecessors. Youngest individual to start his papacy since Pius IX (1846). "
+265,Benedict XVI,Benedict,16,,1927-04-16,2005-04-19,2013-02-28,78.008,85.866,7.858,1977-06-27,50y 2m 11d,27.811,,Joseph Alois Ratzinger,"Marktl am Inn, Bavaria, Germany",Germany,"Oldest to become pope since Clement XII (1730). Elevated the Tridentine Mass to a more prominent position and promoted the use of Latin; re-introduced several disused papal garments. Authorized the creation of Anglican ordinariates (2009). First pope to renounce the papacy on his own initiative since Celestine V (1294),[47] becoming pope emeritus.[48] Longest-lived pope on record."
+266,Francis,Francis,1,,1936-12-17,2013-03-13,2025-04-21,76.239,88.344,12.105,2001-02-21,64y 2m 4d,12.061,,Jorge Mario Bergoglio,Buenos Aires,Argentina,First pope to be born outside Europe since Gregory III (731–741) and the first from the Americas; first pope from the Southern Hemisphere. First pope from a religious institute since Gregory XVI (1831–1846); first Jesuit pope. First to use a new and non-composed regnal name since Lando (913–914). First pope to visit and celebrate a mass on the Arabian Peninsula.
+267,Leo XIV,Leo,14,,1955-12-14,2025-05-08,NA,69.4,NA,NA,2023-09-30,67y 9m 16d,1.606,,Robert Francis Prevost,Chicago,USA,"He is the first pope to have been born in the United States, the first from North America, the first to hold either U.S. or Peruvian citizenships (or both), the first born after World War II, the first from the Order of Saint Augustine, and the second (after his immediate predecessor Pope Francis) from the Americas. "

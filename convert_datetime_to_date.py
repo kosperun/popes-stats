@@ -31,7 +31,7 @@ def load_popes(path):
         reader = csv.DictReader(f)
         for row in reader:
             start = parse_date(row.get("start"))
-            cardinalate = parse_date(row.get("cardinalate"))
+            cardinalate = parse_date(row.get("cardinalate_date"))
             end = parse_date(row.get("end"))
             if not start or not cardinalate or not end:
                 continue
@@ -48,7 +48,7 @@ def sort_by_years_as_cardinal(rows):
     # sort by total days for proper ordering
     def total_days(r):
         start = parse_date(r.get("start"))
-        cardinalate = parse_date(r.get("cardinalate"))
+        cardinalate = parse_date(r.get("cardinalate_date"))
         if not start or not cardinalate:
             return float("inf")
         return (start - cardinalate).days  # negative if cardinalate after start
