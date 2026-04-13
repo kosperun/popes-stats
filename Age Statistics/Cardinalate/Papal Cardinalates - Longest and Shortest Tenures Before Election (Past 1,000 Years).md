@@ -11,20 +11,20 @@ Note: This analysis is limited to documented cardinalates from approximately the
 | 5   | Gregory XII | 1406-1415    | 1 year 5 months 18 days          | 78                 |
 | 6   | Leo XIV     | 2025-current | 1 year 7 months 9 days           | 67                 |
 
-Pope Nicholas V holds first place among documented popes with just 2 months and 18 days as a cardinal before his election.
+Nicholas V holds first place among documented popes with just 2 months and 18 days as a cardinal before his election.
 
 Three recent popes — Benedict XV, his immediate successor Pius XI, and the current pope Leo XIV — appear among those with the shortest cardinalates before election. Leo XIV ranks 6th on that list.
-# Longest Cardinalates Before Election (over 40 years)
+# Longest Cardinalates Before Election (Over 40 Years)
 
 | #   | Name          | Pontificate | Time as Cardinal Before Election | Age at Cardinalate                                                    |
 | --- | ------------- | ----------- | -------------------------------- | --------------------------------------------------------------------- |
 | 1   | Benedict XIII | 1724-1730   | 52 years 3 months 7 days         | 23                                                                    |
 | 2   | Clement II    | 1046-1047   | ~50 years                        | 29                                                                    |
-| 3   | Celestine III | 1191-1198   | 47 years 1 months 21 days        | 38                                                                    |
+| 3   | Celestine III | 1191-1198   | 47 years 1 month 21 days         | 38                                                                    |
 | 4   | Pius III      | 1503-1503   | 43 years 6 months 17 days        | 21 (by his uncle Pius II)                                             |
 | 5   | Paul III      | 1534-1549   | 41 years 23 days                 | 25 (by Alexander VI, through his sister, who was the pope's mistress) |
 | 6   | Lucius III    | 1181-1185   | ~40-43 years                     | ~44                                                                   |
-Note: Innocent II (1130-1143): Accounts on him vary. One tradition — supported by cardinals.fiu.edu — holds that he was made a cardinal around 1088 (as young as 6–13 years old) thus making him wait for ~41 years before election. Another places his cardinalate in 1116, with only 14 years before election.
+**Note:** Accounts on Innocent II (1130–1143) vary. One tradition — supported by cardinals.fiu.edu — holds that he was made a cardinal around 1088, as young as 6–13 years old, which would place his wait before election at approximately 41 years. Another places his cardinalate in 1116, leaving only 14 years before his election.
 # Youngest Documented Popes at Cardinalate
 
 | #   | Name          | Pontificate | Age at Cardinalate        | Cardinalate Year | Made by                                                                                                      | Participation in Conclaves         |
@@ -39,19 +39,19 @@ Note: Innocent II (1130-1143): Accounts on him vary. One tradition — supported
 | 8   | Eugene IV     | 1431-1447   | ~24-25                    | 1408             | Gregory XII, his uncle                                                                                       | 1417, 1431                         |
 | 9   | Paul III      | 1534-1549   | 25 years 6 months 22 days | 1493             | Alexander VI (through his sister, who was the pope's mistress)                                               | 1503 (2), 1513, 1522, 1523, 1534   |
 | 10  | Alexander VI  | 1492-1503   | 25 years 8 months 16 days | 1456             | Callixtus III, his uncle                                                                                     | 1458, 1464, 1471, 1484, 1492       |
-Notes:
-- All of the top ten youngest cardinals future popes but Paschal II were made cardinals either by direct nepotism or by the cardinal's family influence.
-- Innocent II (1130-1143): Accounts on him vary. One tradition — supported by cardinals.fiu.edu — holds that he was made a cardinal around 1088 (as young as 6–13 years old). Another places his cardinalate in 1116, at approximately 40 years of age. 
-- Gregory VI (1045–1046) also has an unreliable birth date: some sources give his birth year as around 1000, which would place his cardinalate at roughly age 12, potentially making him one of the youngest cardinals ever elected pope, but it's unlikely.
+**Notes:**
+- All of the top ten youngest future popes were made cardinals through direct nepotism or family influence, with the sole exception of Paschal II.
+- Accounts on Innocent II (1130–1143) vary. One tradition — supported by cardinals.fiu.edu — holds that he was made a cardinal around 1088, as young as 6–13 years old. Another places his cardinalate in 1116, at approximately 40 years of age.
+- Gregory VI (1045–1046) has been excluded due to an unreliable birth date. Some sources cite his birth year as around 1000, which would place his cardinalate at roughly age 12 — but this figure lacks solid evidence and should be treated with caution.
 
 # Oldest Documented Popes at Cardinalate
   
 | #   | Name          | Pontificate | Age at Cardinalate        | Participation in Conclaves                                                                                                  |
 | --- | ------------- | ----------- | ------------------------- | --------------------------------------------------------------------------------------------------------------------------- |
-| 1   | Clement X     | 1670-1676   | 79 years 4 months 16 days | 1670. Never received the red hat and the title because Clement IX died on December 9, 1669 and he was elected his successor |
+| 1   | Clement X     | 1670-1676   | 79 years 4 months 16 days | 1670. He never formally received the red hat and title, as Clement IX died on December 9, 1669, and he was elected his successor before the ceremony took place |
 | 2   | Gregory XII   | 1406-1415   | ~77-78 years              | 1406                                                                                                                        |
 | 3   | John XXIII    | 1958-1963   | 71 years 1 month 18 days  | 1958                                                                                                                        |
-| 4   | Clement IV    | 1265-1268   | 71 years 24 days          | Did not participate in the papal election of 1264-1265 and was elected pope. At the time he was in a mission in England.    |
+| 4   | Clement IV    | 1265-1268   | 71 years 24 days          | Did not participate in the papal election of 1264-1265 and was nonetheless elected pope, as he was on a diplomatic mission in England at the time |
 | 5   | John XXII     | 1316-1334   | ~68 years (or ~63 years)  | 1314-1316                                                                                                                   |
 | 6   | Leo XIV       | 2025-       | 67 years 9 months 16 days | 2025                                                                                                                        |
 | 7   | Innocent XII  | 1691-1700   | 66 years 5 months 19 days | 1689, 1691                                                                                                                  |
@@ -78,7 +78,7 @@ Two of the most recent popes — Francis and Leo XIV — rank among the ten olde
 | 11  | Leo XIII     | 1878-1903    | 24 years, 2 months, 1 day        | 43                 |
 | 12  | Benedict XVI | 2005-2013    | 27 years, 9 months, 23 days      | 50                 |
 
-Two of the recent popes (Leo XIII and Benedict XVI) on this list rank among the longest-serving cardinals before election, given that their predecessors — Pius IX and John Paul II respectively— were record holders for the longest pontificates in history.
+Two popes on this list — Leo XIII and Benedict XVI — rank among the longest-serving cardinals before election, a consequence of their predecessors, Pius IX and John Paul II respectively, holding the records for the longest pontificates in history.
 
 John Paul II was the youngest future pope to be made a cardinal in the 20th century, receiving the red hat at 47. Similarly, Leo XIII held that distinction in the 19th century, having become a cardinal at 43.
 
