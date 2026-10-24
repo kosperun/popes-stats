@@ -23,28 +23,28 @@ In the 20th century, two popes chose names that had not been used for centuries:
   
 ## Centuries of the most distant papal name reuse in descending order  
   
-|Century | Top Gap Pope | Gap in years | Total popes in century | Distinct names | New names |  
-|--|--|--|--|--|--|  
-| 12 | Callixtus II  | \~897 | 16 | 13 | 0 |  
-| 11 | Clement II  | \~946 | 19 | 14 | 0 |  
-| 15 | Pius II  | \~1303 | 11 | 10 | 0 |  
-| 16 | Marcellus II  | 1246 | 17 | 11 | 0 |  
-| 13 | Martin IV  | 625 | 17 | 12 | 0 |  
-| 10 | Sylvester II  | 663 | 24 | 11 | 1 (never reused - Lando) |  
-| 9 | Boniface VI  | 270 | 20 | 16 | 6 (3 never reused) |  
-| 20 | John XXIII  | 623 or 543 | 8 | 5 | 1 (John Paul) |
-| 14 | Benedict XI  | 255 | 10 | 8 | 0 |  
-| 8 | Stephen II  | 495 | 12 | 9 | 5 (3 never reused) |  
-| 18 | Benedict XIII  | 382 | 8 | 4 | 0 |  
-| 7 | Leo II  | 220 | 20 | 16 | 12 (5 never reused) |  
-| 17 | Alexander VII  | 151 | 11 | 7 | 0 |  
-| 19 | Leo XIII  | 49 | 6 | 3 | 0 |  
-| 5 | Felix III  | 208 | 12 | 12 | 9 (4 never reused) |  
-| 21 | Leo XIV  | 122 | 3 | 3 | 1 (never reused - Francis) |  
-| 6 | Boniface II  | 108 | 13 | 10 | 8 (3 never reused) |  
-| 3 | Sixtus II  | 132 | 14 | 14 | 13 (8 never reused) |  
-| 1 | NA | NA | 5 | 5 | 5 (all never reused) |
-| 2 | NA | NA | 10 | 10 | 10 (6 never reused) |
-| 4 | NA | NA | 10 | 10 | 10 (5 never reused) |
+|Century | Top Gap Pope | Top Gap in years | Avg gap in years | Total popes in century | Distinct names | New names |  
+|--|--|--|--|--|--|--|  
+| 15 | Pius II  | \~1303 | 391 | 11 | 10 | 0 |  
+| 12 | Callixtus II  | \~897 | 356 | 16 | 13 | 0 |  
+| 11 | Clement II  | \~946 | 249 | 19 | 14 | 0 |  
+| 16 | Marcellus II  | 1246 | 241 | 17 | 11 | 0 |  
+| 20 | John XXIII  | 623 or 543 | 144 | 8 | 5 | 1 (John Paul) |
+| 13 | Martin IV  | 625 | 129 | 17 | 12 | 0 |  
+| 10 | Sylvester II  | 663 | 90 | 23 | 11 | 1 (never reused - Lando) |  
+| 18 | Benedict XIII  | 382 | 84 | 8 | 4 | 0 |  
+| 19 | Leo XII  | 218 | 83 | 6 | 3 | 0 |  
+| 14 | Benedict XI  | 255 | 75 | 10 | 8 | 0 |  
+| 9 | Boniface VI  | 270 | 75 | 20 | 16 | 6 (3 never reused) |  
+| 21 | Leo XIV  | 122 | 68 | 3 | 3 | 1 (never reused - Francis) |  
+| 8 | Stephen II  | 495 | 62 | 12 | 9 | 5 (3 never reused) |  
+| 17 | Alexander VII  | 151 | 46 | 11 | 7 | 0 |  
+| 5 | Felix III  | 208 | 40 | 12 | 12 | 9 (4 never reused) |  
+| 7 | Leo II  | 220 | 28 | 20 | 16 | 12 (5 never reused) |  
+| 6 | Boniface II  | 108 | 15 | 13 | 10 | 8 (3 never reused) |  
+| 3 | Sixtus II  | 132 | 9 | 14 | 14 | 13 (8 never reused) |  
+| 1 | NA | NA | 0 | 5 | 5 | 5 (all never reused) |
+| 2 | NA | NA | 0 | 11 | 10 | 10 (6 never reused) |
+| 4 | NA | NA | 0 | 10 | 10 | 10 (5 never reused) |
   
 No repetitions in the 1st, 2nd and 4th centuries. Only one repetition in the 3rd century - Pope Sixtus II, the first pope to share a name with one of his predecessors.  

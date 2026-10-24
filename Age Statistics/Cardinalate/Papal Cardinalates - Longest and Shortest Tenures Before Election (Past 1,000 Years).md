@@ -25,6 +25,10 @@ Three recent popes — Benedict XV, his immediate successor Pius XI, and the cur
 | 5   | Paul III      | 1534-1549   | 41 years 23 days                 | 25 (by Alexander VI, through his sister, who was the pope's mistress) |
 | 6   | Lucius III    | 1181-1185   | ~40-43 years                     | ~44                                                                   |
 **Note:** Accounts on Innocent II (1130–1143) vary. One tradition — supported by cardinals.fiu.edu — holds that he was made a cardinal around 1088, as young as 6–13 years old, which would place his wait before election at approximately 41 years. Another places his cardinalate in 1116, leaving only 14 years before his election.
+
+Celestine III (1191–1198) holds the record for the most papal elections attended as a cardinal — 10 conclaves over 47 years. He is followed by Lucius III (1181–1185) with 8 conclaves over 40 years, and Benedict XIII (1724–1730) with 6 conclaves over 52 years.
+
+A complete ranking of every pope with a known cardinalate, including popes before the year 1000, is in [Shortest-serving cardinals before becoming pope.md](Shortest-serving%20cardinals%20before%20becoming%20pope.md).
 # Youngest Documented Popes at Cardinalate
 
 | #   | Name          | Pontificate | Age at Cardinalate        | Cardinalate Year | Made by                                                                                                      | Participation in Conclaves         |

@@ -9,6 +9,8 @@ The original dataset is courtesy of <https://github.com/ksreyes/popes>
 
 - [Pontificates Statistics](#pontificates-statistics)
   - [20 Longest pontificates](#20-longest-pontificates)
+  - [Popes who died out of office](#popes-who-died-out-of-office)
+  - [Pope-elects who never reigned](#pope-elects-who-never-reigned)
 
 - [Papal Names Statistics](#papal-names-statistics)
   - [20 Most used papal names](#20-most-used-papal-names)
@@ -29,6 +31,10 @@ The original dataset is courtesy of <https://github.com/ksreyes/popes>
 - [Sainthood Statistics](#sainthood-statistics)
   - [Sainthood status by century](#sainthood-status-by-century)
   - [Time from death to beatification and canonisation](#time-from-death-to-beatification-and-canonisation)
+
+- [Conclave Statistics](#conclave-statistics)
+
+- [Cardinal Statistics](#cardinal-statistics)
 
 - [Family Relationships between Popes](#family-relationships-between-popes)
 
@@ -68,6 +74,14 @@ Since 1447, only 13 of 60 popes were older than their predecessor. The last was 
 ## 20 Longest pontificates  
 
 [20 Longest Pontificates](https://github.com/user-attachments/assets/73b89a41-1da7-40fb-bb40-ff73dd9609cb)
+
+## Popes who died out of office
+
+[**13 popes who resigned or were deposed**](https://github.com/kosperun/popes-stats/blob/main/Reigns%20Statistics/Died%20Out%20of%20Office/popes_died_out_of_office.md), from Pontian (235), exiled to the Sardinian mines, to Benedict XVI (2013).
+
+## Pope-elects who never reigned
+
+[**Men elected pope who died or stepped aside before taking office**](https://github.com/kosperun/popes-stats/blob/main/Reigns%20Statistics/Pope-elects/Pope-elects.md): Stephen (752), the pope-elect John of 985, Celestine II (1124) and Vicedomino de Vicedominis (1276).
 
 # Papal Names Statistics
 [**More papal names statistics**](https://github.com/kosperun/popes-stats/tree/main/Names%20Statistics)  
@@ -163,6 +177,20 @@ Popes' birth names, with forms from different languages merged (Giovanni = John;
 John Paul II was canonised 9 years after his death. Adrian III waited more than 1,000 years.
 
 ![time_from_death_to_recognition](Sainthood%20Statistics/time_from_death_to_recognition.png)
+
+# Conclave Statistics
+[**More conclave statistics**](https://github.com/kosperun/popes-stats/blob/main/Conclave%20Statistics/conclaves.md)  
+
+112 papal elections from 1061 to 2025, scraped from Wikipedia. The longest, at Viterbo in 1268–1271, lasted almost three years and took 137 ballots. Since 1831, the median conclave has lasted 3 days.
+
+![conclave_durations](Conclave%20Statistics/conclave_durations.png)
+
+# Cardinal Statistics
+[**More cardinal statistics**](https://github.com/kosperun/popes-stats/blob/main/Cardinal%20Statistics/cardinals.md)  
+
+About 4,700 cardinals from Salvador Miranda's *The Cardinals of the Holy Roman Church* and Wikidata, used to reconstruct who elected each pope. In 2005, John Paul II had created 114 of the 117 eligible electors. In 2013 the electorate was split 67 to 50 between Benedict XVI's and John Paul II's cardinals, and Francis had created 80% of the electors who chose Leo XIV in 2025.
+
+![electors_created_by_predecessor](Cardinal%20Statistics/electors_created_by_predecessor.png)
 
 # Family Relationships between Popes
 [**Full family research**](https://github.com/kosperun/popes-stats/blob/main/Family%20Statistics/Family%20Relationships%20between%20Popes.md)  
