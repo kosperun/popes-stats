@@ -5,6 +5,9 @@ import pandas as pd
 
 
 def parse_date(datestr: str):
+    # The reigning pope has no end date
+    if datestr == "NA":
+        return None
     y, m, d = map(int, datestr[:10].split("-"))
     return datetime(y, m, d).date()
 
@@ -20,7 +23,7 @@ def format_days(days: float) -> str:
 
 
 # --- Load data ---
-df = pd.read_csv("popes.csv")
+df = pd.read_csv("popes.csv", keep_default_na=False)
 df["start_dt"] = df["start"].apply(parse_date)
 df["end_dt"] = df["end"].apply(parse_date)
 
@@ -104,7 +107,7 @@ for bar, label in zip(bars, century_stats["avg_gap_str"]):
         fontsize=9,
     )
 plt.tight_layout()
-plt.savefig("average_sede_vacante_duration_by_century.png")
+plt.savefig("Reigns Statistics/Sede Vacante/average_sede_vacante_duration_by_century.png")
 
 # Total
 plt.figure(figsize=(12, 6))
@@ -128,7 +131,7 @@ for bar, label in zip(bars, century_stats["total_gap_str"]):
         fontsize=9,
     )
 plt.tight_layout()
-plt.savefig("total_sede_vacante_duration_by_century.png")
+plt.savefig("Reigns Statistics/Sede Vacante/total_sede_vacante_duration_by_century.png")
 
 # Format strings for printing
 century_stats["avg_gap_str"] = century_stats["avg_gap_days"].apply(format_days)

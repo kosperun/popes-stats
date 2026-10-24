@@ -5,6 +5,7 @@ The original dataset is courtesy of <https://github.com/ksreyes/popes>
 - [Papal Ages Statistics](#papal-ages-statistics)
   - [Ages of popes at election](#ages-of-popes-at-election)
   - [Ages of popes at end of pontificate](#ages-of-popes-at-end-of-pontificate)
+  - [Age gaps between successive popes](#age-gaps-between-successive-popes)
 
 - [Pontificates Statistics](#pontificates-statistics)
   - [20 Longest pontificates](#20-longest-pontificates)
@@ -24,6 +25,14 @@ The original dataset is courtesy of <https://github.com/ksreyes/popes>
     - [Boniface](#boniface)
     - [Urban](#urban)
 
+- [Sainthood Statistics](#sainthood-statistics)
+  - [Sainthood status by century](#sainthood-status-by-century)
+  - [Time from death to beatification and canonisation](#time-from-death-to-beatification-and-canonisation)
+
+- [General Statistics](#general-statistics)
+  - [Calendar patterns](#calendar-patterns)
+  - [Overlapping lifespans](#overlapping-lifespans)
+
 # Papal Ages Statistics
 [**More age statistics**](https://github.com/kosperun/popes-stats/tree/main/Age%20Statistics)  
 
@@ -42,6 +51,13 @@ Exact ages
 
 Rounded histogram
 <img width="1000" height="600" alt="age_at_death_histogram" src="https://github.com/user-attachments/assets/166c2fc0-c0d7-4cf8-9c7d-2013dfb3a8a2" />
+
+## Age gaps between successive popes
+[**Full tables**](https://github.com/kosperun/popes-stats/blob/main/Age%20Statistics/Successor%20Age%20Gaps/successor_age_gaps.md)  
+
+Since 1447, only 13 of 60 popes were older than their predecessor. The last was Benedict XIII in 1724. Every pope since Clement XII (1730) has been younger than the pope before him.
+
+![successor_birth_gaps](Age%20Statistics/Successor%20Age%20Gaps/successor_birth_gaps.png)
 
 # Pontificates Statistics
 [**More pontificate statistics**](https://github.com/kosperun/popes-stats/tree/main/Reigns%20Statistics)  
@@ -122,3 +138,36 @@ Rounded histogram
 <img width="3000" height="1200" alt="Urban_by_century_line" src="https://github.com/user-attachments/assets/44c19657-f116-435c-8c22-4d77f6dd83b7" />
 
 <img width="3600" height="1200" alt="Urban_distribution" src="https://github.com/user-attachments/assets/2358742a-deef-470d-81c9-5ac6e10229b5" />
+
+# Sainthood Statistics
+[**More sainthood statistics**](https://github.com/kosperun/popes-stats/blob/main/Sainthood%20Statistics/sainthood.md)  
+
+81 popes are saints, 10 are Blessed, 1 is Venerable and 2 are Servants of God. The first 35 popes are all saints.
+
+## Sainthood status by century
+
+![sainthood_status_by_century](Sainthood%20Statistics/sainthood_status_by_century.png)
+
+## Time from death to beatification and canonisation
+
+John Paul II was canonised 9 years after his death. Adrian III waited more than 1,000 years.
+
+![time_from_death_to_recognition](Sainthood%20Statistics/time_from_death_to_recognition.png)
+
+# General Statistics
+
+## Calendar patterns
+[**More calendar statistics**](https://github.com/kosperun/popes-stats/blob/main/General%20Statistics/Calendar%20Patterns/calendar_patterns.md)  
+
+December has the most papal elections. Since 1583, only two popes were elected on a Sunday. Pius XII was elected on his 63rd birthday.
+
+![elections_and_deaths_by_month](General%20Statistics/Calendar%20Patterns/elections_and_deaths_by_month.png)
+
+![elections_and_deaths_by_weekday](General%20Statistics/Calendar%20Patterns/elections_and_deaths_by_weekday.png)
+
+## Overlapping lifespans
+[**More on overlapping lifespans**](https://github.com/kosperun/popes-stats/blob/main/General%20Statistics/Overlapping%20Lifespans/overlapping_lifespans.md)  
+
+14 popes, past, reigning and future, were alive at the same time in 1554–1555. When John XXIII was elected in 1958, every pope who has reigned since was already born.
+
+![popes_alive_at_the_same_time](General%20Statistics/Overlapping%20Lifespans/popes_alive_at_the_same_time.png)
