@@ -13,6 +13,7 @@ The original dataset is courtesy of <https://github.com/ksreyes/popes>
 - [Papal Names Statistics](#papal-names-statistics)
   - [20 Most used papal names](#20-most-used-papal-names)
   - [15 Popular papal names that later fell out of use](#15-popular-papal-names-that-later-fell-out-of-use)
+  - [Most common birth names](#most-common-birth-names)
   - [Distributions of the 10 most popular papal names](#distributions-of-the-10-most-popular-papal-names)
     - [John](#john)
     - [Gregory](#gregory)
@@ -28,6 +29,8 @@ The original dataset is courtesy of <https://github.com/ksreyes/popes>
 - [Sainthood Statistics](#sainthood-statistics)
   - [Sainthood status by century](#sainthood-status-by-century)
   - [Time from death to beatification and canonisation](#time-from-death-to-beatification-and-canonisation)
+
+- [Family Relationships between Popes](#family-relationships-between-popes)
 
 - [General Statistics](#general-statistics)
   - [Calendar patterns](#calendar-patterns)
@@ -76,6 +79,13 @@ Since 1447, only 13 of 60 popes were older than their predecessor. The last was 
 ## 15 Popular papal names that later fell out of use  
 
 [15 Most used but then neglected papal names](https://github.com/user-attachments/assets/31df9083-d578-49f7-a9d2-12b6f37f8804)
+
+## Most common birth names
+[**More on birth names**](https://github.com/kosperun/popes-stats/blob/main/Names%20Statistics/Birth%20Names/most_common_birth_names.md)  
+
+Popes' birth names, with forms from different languages merged (Giovanni = John; Pietro, Pierre, Pedro = Peter). John leads with 19 popes, and none of the 12 popes born Peter took Peter as their papal name.
+
+![most_common_birth_names](Names%20Statistics/Birth%20Names/most_common_birth_names.png)
 
 ## Distributions of the 10 most popular papal names  
 
@@ -153,6 +163,11 @@ Since 1447, only 13 of 60 popes were older than their predecessor. The last was 
 John Paul II was canonised 9 years after his death. Adrian III waited more than 1,000 years.
 
 ![time_from_death_to_recognition](Sainthood%20Statistics/time_from_death_to_recognition.png)
+
+# Family Relationships between Popes
+[**Full family research**](https://github.com/kosperun/popes-stats/blob/main/Family%20Statistics/Family%20Relationships%20between%20Popes.md)  
+
+56 of 265 popes had a documented or probable family tie to another pope, and 20 were made cardinals by a papal relative. Innocent X was a great-great-great-grandson of Alexander VI. Paul III's mother was a Caetani, from the family of Boniface VIII.
 
 # General Statistics
 
